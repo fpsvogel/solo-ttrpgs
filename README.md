@@ -116,6 +116,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Push](https://capacle.itch.io/push)
 - [Recluse](https://gravenutterance.itch.io/recluse)
 - [Diedream](https://alfredvalley.itch.io/diedream)
+- [sum of letter positions of a random word](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/)
 
 #### Visual/card-based oracles
 
