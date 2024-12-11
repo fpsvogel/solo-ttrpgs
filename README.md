@@ -3,14 +3,14 @@
 
 I've been exploring solo tabletop role-playing games for reasons explained in my blog post ["Solo RPGs as a creative practice"](https://fpsvogel.com/posts/2023/solo-rpgs-creative-practice). But also to have fun!
 
-Note that the titles I mention here are not the *most popular* TTRPGs (e.g. [Ironsworn](https://www.ironswornrpg.com) is absent), just the ones that I myself find most interesting.
+This list is based on my own interests, rather than aiming to be exhaustive or based on popularity (e.g. [Ironsworn](https://www.ironswornrpg.com) is absent).
 
 <!-- omit in toc -->
 ## Table of Contents
 - [Community](#community)
 - [Beginner's guides](#beginners-guides)
 - [Games](#games)
-  - [Rules-light, freeform](#rules-light-freeform)
+  - [Freeform story-making](#freeform-story-making)
   - [Kid-friendly](#kid-friendly)
   - [Space-themed](#space-themed)
   - [Medieval-themed](#medieval-themed)
@@ -21,7 +21,6 @@ Note that the titles I mention here are not the *most popular* TTRPGs (e.g. [Iro
     - [Simpler oracles](#simpler-oracles)
     - [Tiny oracles](#tiny-oracles)
     - [Visual/card-based oracles](#visualcard-based-oracles)
-  - [Story inspiration](#story-inspiration)
   - [Random content generation](#random-content-generation)
   - [Mapmaking](#mapmaking)
   - [On the computer](#on-the-computer)
@@ -36,12 +35,19 @@ Note that the titles I mention here are not the *most popular* TTRPGs (e.g. [Iro
 
 ## Games
 
-### Rules-light, freeform
+### Freeform story-making
 
-These are essentially just aids to coming up with a story.
+These are nothing more than aids to coming up with a story. I'm parked here for now because life with a baby (soon two) isn't conducive to sitting down to play a game. But I don't see this as a bad thing necessarily: I'm still practicing the essence of story-making, which is my goal in this whole endeavor.
 
-- [watchout4snakes random word generator](http://watchout4snakes.com/Random/RandomPhrase) plus a [tiny oracle](#tiny-oracles). This is the approach I'm starting with.
-- The GameMaster's Apprentice (GMA) cards: [online]((https://jamesturneronline.net/game-masters-apprentice)) or [physical cards](https://www.drivethrurpg.com/product/125685/The-GameMasters-Apprentice-Base-Deck), plus [GMA Adventure Guide Pack](https://www.drivethrurpg.com/product/179835). [ALONe](https://www.drivethrurpg.com/product/168609) is a solo RPG system based on the cards.
+- The tiniest, most portable oracle: [sum of letter positions of a random word](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/)
+- Simple oracles that I can pull up on my phone, when I need something more:
+  - [watchout4snakes random word generator](http://watchout4snakes.com/Random/RandomPhrase)
+  - [Zero Dice](https://tangent-zero.com/zero_dice/zero_dice.htm)
+  - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) if I go to a random page in the PDF
+- Inspiration on how to make a story:
+  - [TaleWeaver instructions](https://www.scribd.com/document/98412/Tale-Weaver)
+  - [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
+  - [The Adventure Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter)
 
 ### Kid-friendly
 
@@ -116,21 +122,15 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Push](https://capacle.itch.io/push)
 - [Recluse](https://gravenutterance.itch.io/recluse)
 - [Diedream](https://alfredvalley.itch.io/diedream)
-- [sum of letter positions of a random word](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/)
 
 #### Visual/card-based oracles
 
-- [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) and [accompanying book](https://www.scribd.com/document/98412/Tale-Weaver)
-- [Zero Dice](https://tangent-zero.com/zero_dice/zero_dice.htm)
+- [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck)
+- The GameMaster's Apprentice (GMA) cards: [online]((https://jamesturneronline.net/game-masters-apprentice)) or [physical cards](https://www.drivethrurpg.com/product/125685/The-GameMasters-Apprentice-Base-Deck), plus [GMA Adventure Guide Pack](https://www.drivethrurpg.com/product/179835). [ALONe](https://www.drivethrurpg.com/product/168609) is a solo RPG system based on the cards.
 - [Rory's Story Cubes](https://www.storycubes.com/en/) are especially good for kids.
 - [Story Engine Deck](https://storyenginedeck.com)
 - [The Wildwood Tarot](https://www.thewildwoodtarot.com)
 - [StoryWorld cards](https://www.goodreads.com/series/68911-storyworld-create-a-story)
-
-### Story inspiration
-
-- [The Adventure Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter)
-- [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
 
 ### Random content generation
 
