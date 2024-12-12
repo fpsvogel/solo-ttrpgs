@@ -156,3 +156,51 @@ I currently don't use TTRPG tools on the computer, instead going with a low-tech
 - [RPG Solo](https://www.rpgsolo.com/play.php)
 - [Solo roleplaying toolkit](https://github.com/Tayruh/solo-roleplaying-toolkit) (but the website linked in the GitHub repo is currently down)
 - [Several others](https://jvhouse.xyz/solo-rpg-setup/#playing-on-pc)
+
+<!--
+
+## Adjacent genres
+
+### Gamebooks
+
+See the paragraph on gamebooks at https://fpsvogel.com/posts/2023/why-make-a-text-based-game#trying-out-the-sub-genres
+
+### Narrative/story-driven board games
+
+#### Simple board games
+
+https://boardgamegeek.com/boardgame/233312/stuffed-fables
+https://boardgamegeek.com/boardgame/350948/familiar-tales
+https://boardgamegeek.com/boardgame/351077/call-to-adventure-epic-origins
+https://boardgamegeek.com/boardgame/326494/the-adventures-of-robin-hood
+https://boardgamegeek.com/boardgame/358320/sleeping-gods-distant-skies
+https://boardgamegeek.com/boardgame/234669/legacy-of-dragonholt
+https://boardgamegeek.com/boardgame/285192/destinies
+https://boardgamegeek.com/boardgame/281474/lands-of-galzyr
+https://boardgamegeek.com/boardgame/293835/oltree
+❌ too intense for now https://rpggeek.com/rpgitem/64016/fiasco
+❌ reviews https://boardgamegeek.com/boardgame/245655/the-kings-dilemma
+❌ reviews https://boardgamegeek.com/boardgame/124708/mice-and-mystics
+❌ prohibitively expensive https://boardgamegeek.com/boardgame/254708/roll-player-adventures
+
+#### Complex board games
+
+https://raoulschaupp.itch.io/grimm-world-first-steps
+https://rpggeek.com/boardgame/364733/grimm-world
+https://boardgamegeek.com/boardgame/214484/hexplore-it-the-valley-of-the-dead-king
+https://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-on-the-cursed-island
+https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood
+https://boardgamegeek.com/boardgame/281526/the-isofarian-guard
+https://boardgamegeek.com/boardgame/360366/tainted-grail-kings-of-ruin
+https://boardgamegeek.com/boardgame/286063/the-7th-citadel
+https://boardgamegeek.com/boardgame/219650/arydia-the-paths-we-dare-tread
+https://boardgamegeek.com/boardgame/169427/middara-unintentional-malum-act-1
+https://boardgamegeek.com/boardgame/325494/iss-vanguard
+https://boardgamegeek.com/boardgame/188920/this-war-of-mine-the-board-game
+https://boardgamegeek.com/boardgame/167355/nemesis
+https://boardgamegeek.com/boardgame/328866/my-fathers-work
+https://boardgamegeek.com/boardgame/280794/etherfields
+https://boardgamegeek.com/boardgame/15987/arkham-horror
+https://boardgamegeek.com/boardgame/291572/oath
+
+-->
