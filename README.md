@@ -47,7 +47,6 @@ These are nothing more than aids to coming up with a story. I'm parked here for 
 - Inspiration on how to make a story:
   - [TaleWeaver instructions](https://www.scribd.com/document/98412/Tale-Weaver)
   - [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
-  - [The Adventure Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter)
 
 ### Kid-friendly
 
