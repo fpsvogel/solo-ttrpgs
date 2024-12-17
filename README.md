@@ -51,9 +51,9 @@ These are nothing more than aids to coming up with a story. I'm parked here for 
 ### Kid-friendly
 
 - Dungeon Hero ([Vol. 1](https://lonespelunker.itch.io/dungeon-hero), [Vol. 2](https://lonespelunker.itch.io/dungeon-hero-volume-2), [Vol. 3](https://lonespelunker.itch.io/dungeon-hero-volume-3-bump-in-the-night)) and its successor [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain)
-- [Tricube Tales](https://www.drivethrurpg.com/en/product/294202/tricube-tales)
+- [Tricube Tales](https://www.drivethrurpg.com/en/product/294202/tricube-tales) plus [one-pagers](https://www.drivethrurpg.com/en/browse?keyword=tricube tales) and [news thread](https://forum.rpg.net/index.php?threads/tricube-tales-the-one-page-rpg-collection.899696)
 - [The Storymaster's Tales](https://www.storymasterstales.com)
-- [Space Aces: Voyages in Infinite Space](https://www.etsy.com/listing/1646603705/space-aces-voyages-in-infinite-space) (plus [supplements](https://p0rthos47.itch.io/))
+- [Space Aces: Voyages in Infinite Space](https://www.etsy.com/listing/1646603705/space-aces-voyages-in-infinite-space) plus [supplements](https://p0rthos47.itch.io/)
 
 ### Space-themed
 
