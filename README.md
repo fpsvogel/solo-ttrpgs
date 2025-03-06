@@ -61,6 +61,7 @@ These are nothing more than aids to coming up with a story. I'm parked here for 
 ### Space-themed
 
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
+- [Notorious](https://alwayscheckers.itch.io/notorious)
 - Cepheus Engine:
   - [Retro Sci-Fi Rules](https://www.drivethrurpg.com/en/product/456143/retro-sci-fi-rules) is just an updated Traveller. It's a simple and minimalist starting point.
   - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
