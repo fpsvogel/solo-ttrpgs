@@ -64,6 +64,7 @@ These are nothing more than aids to coming up with a story. I'm parked here for 
 - Cepheus Engine:
   - [Retro Sci-Fi Rules](https://www.drivethrurpg.com/en/product/456143/retro-sci-fi-rules) is just an updated Traveller. It's a simple and minimalist starting point.
   - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
+  - [Hostile Solo](https://www.drivethrurpg.com/en/product/406815/hostile-solo)
   - [Cepheus Universal](https://www.drivethrurpg.com/en/product/469431/cepheus-universal) for all the options.
   - [Solo](https://www.drivethrurpg.com/en/product/207164/solo)
   - [An explanation of the various versions](https://www.reddit.com/r/rpg/comments/1efz4fg/comment/lfopl95/)
