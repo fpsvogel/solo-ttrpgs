@@ -57,6 +57,7 @@ These are nothing more than aids to coming up with a story. I'm parked here for 
 - [Tricube Tales](https://www.drivethrurpg.com/en/product/294202/tricube-tales) plus [one-pagers](https://www.drivethrurpg.com/en/browse?keyword=tricube tales) and [news thread](https://forum.rpg.net/index.php?threads/tricube-tales-the-one-page-rpg-collection.899696)
 - [The Storymaster's Tales](https://www.storymasterstales.com)
 - [Space Aces: Voyages in Infinite Space](https://www.etsy.com/listing/1646603705/space-aces-voyages-in-infinite-space) plus [supplements](https://p0rthos47.itch.io/)
+- [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
 
 ### Space-themed
 
