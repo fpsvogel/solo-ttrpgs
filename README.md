@@ -12,8 +12,9 @@ This list is based on my own interests, rather than aiming to be exhaustive or b
 - [Games](#games)
   - [Freeform story-making](#freeform-story-making)
   - [Kid-friendly](#kid-friendly)
-  - [Space-themed](#space-themed)
-  - [Medieval-themed](#medieval-themed)
+  - [Theme: space](#theme-space)
+  - [Theme: medieval](#theme-medieval)
+  - [Theme: other](#theme-other)
   - [World-building](#world-building)
 - [Tools](#tools)
   - [Oracles](#oracles)
@@ -35,6 +36,7 @@ This list is based on my own interests, rather than aiming to be exhaustive or b
 ## Beginner's guides
 
 - [A Beginner's Guide to Solo Role Playing (solo RPGs)](https://www.youtube.com/watch?v=iYHt1pdScK0)
+- [Tips for Solo RPG Gamers](https://paperdicegames.com/2025/02/03/my-top-tips-for-solo-rpg-gamers/)
 
 ## Games
 
@@ -57,9 +59,8 @@ These are nothing more than aids to coming up with a story. I'm parked here for 
 - [Tricube Tales](https://www.drivethrurpg.com/en/product/294202/tricube-tales) plus [one-pagers](https://www.drivethrurpg.com/en/browse?keyword=tricube tales) and [news thread](https://forum.rpg.net/index.php?threads/tricube-tales-the-one-page-rpg-collection.899696)
 - [The Storymaster's Tales](https://www.storymasterstales.com)
 - [Space Aces: Voyages in Infinite Space](https://www.etsy.com/listing/1646603705/space-aces-voyages-in-infinite-space) plus [supplements](https://p0rthos47.itch.io/)
-- [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
 
-### Space-themed
+### Theme: space
 
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
 - [Notorious](https://alwayscheckers.itch.io/notorious)
@@ -71,17 +72,23 @@ These are nothing more than aids to coming up with a story. I'm parked here for 
   - [Solo](https://www.drivethrurpg.com/en/product/207164/solo)
   - [An explanation of the various versions](https://www.reddit.com/r/rpg/comments/1efz4fg/comment/lfopl95/)
 
-### Medieval-themed
+### Theme: medieval
 
 These are a lot more *crunchy* (as the more numbers-heavy games are described) than I would normally go for, but I just can't resist their medieval literary-historical settings.
 
-- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game))
+- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)) and [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/)
 - [Paladin](https://www.chaosium.com/paladin/)
 - [Aquelarre](https://drivethrurpg.com/product/237059/Aquelarre)
 - [Chronica Feudalis](https://chronicafeudalis.com/)
 - [Wolves of God](https://drivethrurpg.com/product/308470/Wolves-of-God-Adventures-in-Dark-Ages-England)
 - [1366](https://drivethrurpg.com/product/111240/1366-Second-Edition)
 - [Maelstrom](https://drivethrurpg.com/publisher/667/arion-games/category/4422/maelstrom), especially Domesday and Rome
+
+### Theme: other
+
+- [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
+- [Glide](https://sasquatchgames.itch.io/glide)
+- [200-word RPGs](https://paperdicegames.com/2019/06/10/quick-to-learn-and-quick-to-play-the-200-word-rpg/)
 
 ### World-building
 
