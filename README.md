@@ -1,20 +1,20 @@
 <!-- omit in toc -->
 # Solo TTRPGs
 
-I've been exploring solo tabletop role-playing games for reasons explained in my blog post ["Solo RPGs as a creative practice"](https://fpsvogel.com/posts/2023/solo-rpgs-creative-practice). But also to have fun!
+I've been exploring solo tabletop role-playing games for reasons explained in my blog post ["Solo RPGs as a creative practice"](https://fpsvogel.com/posts/2023/solo-rpgs-creative-practice).
 
-This list is based on my own interests, rather than aiming to be exhaustive or based on popularity. ([Ironsworn](https://www.ironswornrpg.com) seems to be the most popular solo RPG, and there are [tons of resources for it](https://github.com/Billiam/awesome-ironsworn).)
+This list is based on my own interests, so it includes some obscure stuff and omits many popular games such as [Ironsworn](https://github.com/Billiam/awesome-ironsworn).
 
 <!-- omit in toc -->
 ## Table of Contents
 - [Community](#community)
 - [Beginner's guides](#beginners-guides)
 - [Games](#games)
-  - [Freeform story-making](#freeform-story-making)
+  - [Minimal/freeform](#minimalfreeform)
   - [Kid-friendly](#kid-friendly)
   - [Theme: space](#theme-space)
+  - [Theme: misc.](#theme-misc)
   - [Theme: medieval](#theme-medieval)
-  - [Theme: other](#theme-other)
   - [World-building](#world-building)
 - [Tools](#tools)
   - [Oracles](#oracles)
@@ -40,28 +40,29 @@ This list is based on my own interests, rather than aiming to be exhaustive or b
 
 ## Games
 
-### Freeform story-making
+### Minimal/freeform
 
-These are nothing more than aids to coming up with a story. I'm parked here for now because life with a baby (soon two) isn't conducive to sitting down to play a game. But I don't see this as a bad thing necessarily: I'm still practicing the essence of story-making, which is my goal in this whole endeavor.
+These are aids to "playing a story" in my head. I'm parked here for now because life with a baby and a toddler isn't conducive to sitting down to play a game.
 
-- The tiniest, most portable oracle: [sum of letter positions of a random word](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/)
-- Simple oracles that I can pull up on my phone, when I need something more:
+- d10 in my head: [sum of letter positions of a random word](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/)
+- Simple oracles that I can pull up on my phone, when I need inspiration:
   - [watchout4snakes random word generator](http://watchout4snakes.com/Random/RandomPhrase)
   - [Zero Dice](https://tangent-zero.com/zero_dice/zero_dice.htm)
   - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) if I go to a random page in the PDF
-- Inspiration on how to make a story:
+- Story ideas:
   - [TaleWeaver instructions](https://www.scribd.com/document/98412/Tale-Weaver)
   - [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
 
 ### Kid-friendly
 
-- Dungeon Hero ([Vol. 1](https://lonespelunker.itch.io/dungeon-hero), [Vol. 2](https://lonespelunker.itch.io/dungeon-hero-volume-2), [Vol. 3](https://lonespelunker.itch.io/dungeon-hero-volume-3-bump-in-the-night)) and its successor [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain)
+- Dungeon Hero ([Vol. 1](https://lonespelunker.itch.io/dungeon-hero), [Vol. 2](https://lonespelunker.itch.io/dungeon-hero-volume-2), [Vol. 3](https://lonespelunker.itch.io/dungeon-hero-volume-3-bump-in-the-night))
 - [Tricube Tales](https://www.drivethrurpg.com/en/product/294202/tricube-tales) plus [one-pagers](https://www.drivethrurpg.com/en/browse?keyword=tricube tales) and [news thread](https://forum.rpg.net/index.php?threads/tricube-tales-the-one-page-rpg-collection.899696)
 - [The Storymaster's Tales](https://www.storymasterstales.com)
 - [Space Aces: Voyages in Infinite Space](https://www.etsy.com/listing/1646603705/space-aces-voyages-in-infinite-space) plus [supplements](https://p0rthos47.itch.io/)
 
 ### Theme: space
 
+- [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain)
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
 - [Notorious](https://alwayscheckers.itch.io/notorious)
 - Cepheus Engine:
@@ -72,9 +73,15 @@ These are nothing more than aids to coming up with a story. I'm parked here for 
   - [Solo](https://www.drivethrurpg.com/en/product/207164/solo)
   - [An explanation of the various versions](https://www.reddit.com/r/rpg/comments/1efz4fg/comment/lfopl95/)
 
+### Theme: misc.
+
+- [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
+- [Glide](https://sasquatchgames.itch.io/glide)
+- [200-word RPGs](https://paperdicegames.com/2019/06/10/quick-to-learn-and-quick-to-play-the-200-word-rpg/)
+
 ### Theme: medieval
 
-These are a lot more *crunchy* (as the more numbers-heavy games are described) than I would normally go for, but I just can't resist their medieval literary-historical settings.
+These are a lot more crunchy (numbers-heavy) than I would normally go for, but I just can't resist their medieval literary-historical settings.
 
 - [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)) and [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/)
 - [Paladin](https://www.chaosium.com/paladin/)
@@ -83,12 +90,6 @@ These are a lot more *crunchy* (as the more numbers-heavy games are described) t
 - [Wolves of God](https://drivethrurpg.com/product/308470/Wolves-of-God-Adventures-in-Dark-Ages-England)
 - [1366](https://drivethrurpg.com/product/111240/1366-Second-Edition)
 - [Maelstrom](https://drivethrurpg.com/publisher/667/arion-games/category/4422/maelstrom), especially Domesday and Rome
-
-### Theme: other
-
-- [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
-- [Glide](https://sasquatchgames.itch.io/glide)
-- [200-word RPGs](https://paperdicegames.com/2019/06/10/quick-to-learn-and-quick-to-play-the-200-word-rpg/)
 
 ### World-building
 
