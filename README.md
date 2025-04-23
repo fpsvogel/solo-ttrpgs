@@ -3,7 +3,7 @@
 
 I've been exploring solo tabletop role-playing games for reasons explained in my blog post ["Solo RPGs as a creative practice"](https://fpsvogel.com/posts/2023/solo-rpgs-creative-practice). But also to have fun!
 
-This list is based on my own interests, rather than aiming to be exhaustive or based on popularity (e.g. [Ironsworn](https://www.ironswornrpg.com) is absent).
+This list is based on my own interests, rather than aiming to be exhaustive or based on popularity. ([Ironsworn](https://www.ironswornrpg.com) seems to be the most popular solo RPG, and there are [tons of resources for it](https://github.com/Billiam/awesome-ironsworn).)
 
 <!-- omit in toc -->
 ## Table of Contents
