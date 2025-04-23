@@ -65,6 +65,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 - [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain)
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
 - [Notorious](https://alwayscheckers.itch.io/notorious)
+- [Star Solo](https://paperdicegames.com/star-solo)
 - Cepheus Engine:
   - [Retro Sci-Fi Rules](https://www.drivethrurpg.com/en/product/456143/retro-sci-fi-rules) is just an updated Traveller. It's a simple and minimalist starting point.
   - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
