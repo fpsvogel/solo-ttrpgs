@@ -77,6 +77,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 ### Theme: misc.
 
 - [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
+- [Delve](https://blackwellwriter.itch.io/delve-a-solo-map-drawing-game)
 - [Glide](https://sasquatchgames.itch.io/glide)
 - [200-word RPGs](https://paperdicegames.com/2019/06/10/quick-to-learn-and-quick-to-play-the-200-word-rpg/)
 
