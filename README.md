@@ -120,14 +120,14 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 #### Large oracles
 
-- [Mythic GME](https://www.drivethrurpg.com/product/422929/Mythic-Game-Master-Emulator-Second-Edition)
+- [Mythic GME](https://www.drivethrurpg.com/product/422929/Mythic-Game-Master-Emulator-Second-Edition) (including a mobile app: [Android](https://play.google.com/store/apps/details?id=com.jasonholtdigital.mythicgme2e&hl=en), [iOS](https://apps.apple.com/us/app/mythic-gme-mobile/id6726999147))
+- [JeansenVaars](https://jeansenvaars.itch.io) Unfolding Machine tools (including [a mobile app](https://jeansenvaars.itch.io/pum-companion))
 - [CRGE/UNE/BOLD](https://www.drivethrurpg.com/browse/pub/7251/Conjecture-Games)
 - [Motif](https://www.drivethrurpg.com/browse/pub/7970/Thought-Punks/subcategory/22614_38729/Motif-Framework)
-- [JeansenVaars](https://jeansenvaars.itch.io) Unfolding Machine tools
 
 #### Simpler oracles
 
-- [One Page Solo Engine](https://inflatablestudios.itch.io/one-page-solo-engine) and [the online version](https://inflatablestudios.itch.io/one-page-solo-engine-online) or [the mobile app](https://play.google.com/store/apps/details?id=dev.InflatableStudios.OnePageSoloEngine)
+- [One Page Solo Engine](https://inflatablestudios.itch.io/one-page-solo-engine) (includes links to a mobile app)
 - [MUNE](https://forums.giantitp.com/showthread.php?567342-MUNE-a-GM-emulator) and [the mobile app](https://play.google.com/store/apps/details?id=com.toppinc.dnd.muneengine)
 - [Juice Oracle](https://thunder9861.itch.io/juice-oracle)
 - [These Meagre Entrails](https://mendercap.itch.io/these-meagre-entrails)
