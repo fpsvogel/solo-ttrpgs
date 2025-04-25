@@ -12,10 +12,10 @@ This list is based on my own interests, so it includes some obscure stuff and om
 - [Games](#games)
   - [Minimal/freeform](#minimalfreeform)
   - [Kid-friendly](#kid-friendly)
-  - [Theme: space](#theme-space)
-  - [Theme: misc.](#theme-misc)
-  - [Theme: medieval](#theme-medieval)
+  - [Space](#space)
+  - [Exploration](#exploration)
   - [World-building](#world-building)
+  - [Medieval](#medieval)
 - [Tools](#tools)
   - [Oracles](#oracles)
     - [Large oracles](#large-oracles)
@@ -60,7 +60,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 - [The Storymaster's Tales](https://www.storymasterstales.com)
 - [Space Aces: Voyages in Infinite Space](https://www.etsy.com/listing/1646603705/space-aces-voyages-in-infinite-space) plus [supplements](https://p0rthos47.itch.io/)
 
-### Theme: space
+### Space
 
 - [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain)
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
@@ -74,24 +74,11 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [Solo](https://www.drivethrurpg.com/en/product/207164/solo)
   - [An explanation of the various versions](https://www.reddit.com/r/rpg/comments/1efz4fg/comment/lfopl95/)
 
-### Theme: misc.
+### Exploration
 
 - [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
-- [Delve](https://blackwellwriter.itch.io/delve-a-solo-map-drawing-game)
+- [DELVE](https://www.blackwellwriter.com/en-us/products/delve-a-solo-map-drawing-game) or [UMBRA](https://www.blackwellwriter.com/en-us/products/umbra-a-game-of-final-frontiers)
 - [Glide](https://sasquatchgames.itch.io/glide)
-- [200-word RPGs](https://paperdicegames.com/2019/06/10/quick-to-learn-and-quick-to-play-the-200-word-rpg/)
-
-### Theme: medieval
-
-These are a lot more crunchy (numbers-heavy) than I would normally go for, but I just can't resist their medieval literary-historical settings.
-
-- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)) and [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/)
-- [Paladin](https://www.chaosium.com/paladin/)
-- [Aquelarre](https://drivethrurpg.com/product/237059/Aquelarre)
-- [Chronica Feudalis](https://chronicafeudalis.com/)
-- [Wolves of God](https://drivethrurpg.com/product/308470/Wolves-of-God-Adventures-in-Dark-Ages-England)
-- [1366](https://drivethrurpg.com/product/111240/1366-Second-Edition)
-- [Maelstrom](https://drivethrurpg.com/publisher/667/arion-games/category/4422/maelstrom), especially Domesday and Rome
 
 ### World-building
 
@@ -107,8 +94,19 @@ These could be useful for building out the setting of a game or story.
 - [Foundations](https://leyline-press.itch.io/foundations-digital-edition-bundle)
 - [Cartograph](https://the-ravensridge-press.itch.io/cartograph-atlas-edition)
 - [Artefact](https://mouseholepress.itch.io/artefact) (try it alongside [The Kleptogoblicon](https://perchance.org/kleptogoblicon))
-- [DELVE](https://www.blackwellwriter.com/en-us/products/delve-a-solo-map-drawing-game) / [UMBRA](https://www.blackwellwriter.com/en-us/products/umbra-a-game-of-final-frontiers)
-- [Stars without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) has a world-building element.
+- [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
+
+### Medieval
+
+These are a lot more crunchy (numbers-heavy) than I would normally go for, but I just can't resist their medieval literary-historical settings.
+
+- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)) and [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/)
+- [Paladin](https://www.chaosium.com/paladin/)
+- [Aquelarre](https://drivethrurpg.com/product/237059/Aquelarre)
+- [Chronica Feudalis](https://chronicafeudalis.com/)
+- [Wolves of God](https://drivethrurpg.com/product/308470/Wolves-of-God-Adventures-in-Dark-Ages-England)
+- [1366](https://drivethrurpg.com/product/111240/1366-Second-Edition)
+- [Maelstrom](https://drivethrurpg.com/publisher/667/arion-games/category/4422/maelstrom), especially Domesday and Rome
 
 ## Tools
 
