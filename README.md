@@ -51,6 +51,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) if I go to a random page in the PDF
 - Story ideas:
   - [TaleWeaver instructions](https://www.scribd.com/document/98412/Tale-Weaver)
+  - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
   - [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
 
 ### Kid-friendly
