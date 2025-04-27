@@ -79,6 +79,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 - [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
 - [DELVE](https://www.blackwellwriter.com/en-us/products/delve-a-solo-map-drawing-game) or [UMBRA](https://www.blackwellwriter.com/en-us/products/umbra-a-game-of-final-frontiers)
 - [Glide](https://sasquatchgames.itch.io/glide)
+- [Artefact / Bucket of Bolts / Counterpart](https://www.kickstarter.com/projects/jhrrsn/the-lost-and-found-collection)
 
 ### World-building
 
@@ -93,7 +94,6 @@ These could be useful for building out the setting of a game or story.
 - [Mappa Imperium](https://nookrium.itch.io/mappa-imperium)
 - [Foundations](https://leyline-press.itch.io/foundations-digital-edition-bundle)
 - [Cartograph](https://the-ravensridge-press.itch.io/cartograph-atlas-edition)
-- [Artefact](https://mouseholepress.itch.io/artefact) (try it alongside [The Kleptogoblicon](https://perchance.org/kleptogoblicon))
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
 
 ### Medieval
