@@ -142,7 +142,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 ### DIY form-a-word oracles
 
-- [Letter dice](https://www.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle)
+- [Q-Less](https://qlessgame.com) or other [letter dice](https://www.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle)
 - [Bananagrams](https://bananagrams.com/products/bananagrams) or a bag of Scrabble tiles
 
 #### Visual/card-based oracles
