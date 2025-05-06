@@ -21,6 +21,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
     - [Large oracles](#large-oracles)
     - [Simpler oracles](#simpler-oracles)
     - [Tiny oracles](#tiny-oracles)
+  - [DIY form-a-word oracles](#diy-form-a-word-oracles)
     - [Visual/card-based oracles](#visualcard-based-oracles)
   - [Random content generation](#random-content-generation)
   - [Mapmaking](#mapmaking)
@@ -138,6 +139,11 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Push](https://capacle.itch.io/push)
 - [Recluse](https://gravenutterance.itch.io/recluse)
 - [Diedream](https://alfredvalley.itch.io/diedream)
+
+### DIY form-a-word oracles
+
+- [Letter dice](https://www.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle)
+- [Bananagrams](https://bananagrams.com/products/bananagrams) or a bag of Scrabble tiles
 
 #### Visual/card-based oracles
 
