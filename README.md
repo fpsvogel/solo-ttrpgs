@@ -45,6 +45,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
 These are aids to "playing a story" in my head. I'm parked here for now because life with a baby and a toddler isn't conducive to sitting down to play a game.
 
 - d10 in my head: [sum of letter positions of a random word](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/)
+  - Or an online dice roller: [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
 - Simple oracles that I can pull up on my phone, when I need inspiration:
   - [watchout4snakes random word generator](http://watchout4snakes.com/Random/RandomPhrase)
   - [Zero Dice](https://tangent-zero.com/zero_dice/zero_dice.htm)
