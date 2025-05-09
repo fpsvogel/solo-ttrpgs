@@ -121,7 +121,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 #### Large oracles
 
-- [Mythic GME](https://www.drivethrurpg.com/product/422929/Mythic-Game-Master-Emulator-Second-Edition) (including a mobile app: [Android](https://play.google.com/store/apps/details?id=com.jasonholtdigital.mythicgme2e&hl=en), [iOS](https://apps.apple.com/us/app/mythic-gme-mobile/id6726999147))
+- [Mythic GME](https://www.drivethrurpg.com/product/422929/Mythic-Game-Master-Emulator-Second-Edition) (including [a mobile app](https://www.wordmillgames.com/mythic-gme-2e-app.html))
 - [JeansenVaars](https://jeansenvaars.itch.io) Unfolding Machine tools (including [a mobile app](https://jeansenvaars.itch.io/pum-companion))
 - [CRGE/UNE/BOLD](https://www.drivethrurpg.com/browse/pub/7251/Conjecture-Games)
 - [Motif](https://www.drivethrurpg.com/browse/pub/7970/Thought-Punks/subcategory/22614_38729/Motif-Framework)
