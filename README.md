@@ -74,7 +74,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
   - [Hostile Solo](https://www.drivethrurpg.com/en/product/406815/hostile-solo)
   - [Cepheus Universal](https://www.drivethrurpg.com/en/product/469431/cepheus-universal) for all the options.
-  - [Solo](https://www.drivethrurpg.com/en/product/207164/solo)
+  - [Solo](https://www.drivethrurpg.com/en/product/519444/solo-second-edition)
   - [An explanation of the various versions](https://www.reddit.com/r/rpg/comments/1efz4fg/comment/lfopl95/)
 
 ### Exploration
