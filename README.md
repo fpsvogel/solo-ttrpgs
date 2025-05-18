@@ -81,6 +81,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 
 - [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
 - [DELVE](https://www.blackwellwriter.com/en-us/products/delve-a-solo-map-drawing-game) or [UMBRA](https://www.blackwellwriter.com/en-us/products/umbra-a-game-of-final-frontiers)
+- [Pencilvillage](https://pencilvillage.org/)
 - [Glide](https://sasquatchgames.itch.io/glide)
 - [Artefact / Bucket of Bolts / Counterpart](https://www.kickstarter.com/projects/jhrrsn/the-lost-and-found-collection)
 
