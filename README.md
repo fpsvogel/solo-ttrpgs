@@ -126,6 +126,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [JeansenVaars](https://jeansenvaars.itch.io) Unfolding Machine tools (including [a mobile app](https://jeansenvaars.itch.io/pum-companion))
 - [CRGE/UNE/BOLD](https://www.drivethrurpg.com/browse/pub/7251/Conjecture-Games)
 - [Motif](https://www.drivethrurpg.com/browse/pub/7970/Thought-Punks/subcategory/22614_38729/Motif-Framework)
+- [Omen (WIP)](https://therandomrefuge.substack.com/p/introducing-omen-gme)
 
 #### Simpler oracles
 
