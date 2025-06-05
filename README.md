@@ -98,6 +98,7 @@ These could be useful for building out the setting of a game or story.
 - [Mappa Imperium](https://nookrium.itch.io/mappa-imperium)
 - [Foundations](https://leyline-press.itch.io/foundations-digital-edition-bundle)
 - [Cartograph](https://the-ravensridge-press.itch.io/cartograph-atlas-edition)
+- [Ex Novo](https://sharkbombs.itch.io/ex-novo) and [Ex Umbra](https://sharkbombs.itch.io/ex-umbra)
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
 
 ### Medieval
