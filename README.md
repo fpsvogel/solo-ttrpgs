@@ -105,7 +105,7 @@ These could be useful for building out the setting of a game or story.
 
 These are a lot more crunchy (numbers-heavy) than I would normally go for, but I just can't resist their medieval literary-historical settings.
 
-- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)) and [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/)
+- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)): [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/), [supplements](https://rollingboxcars.com/2017/09/19/the-essential-list-of-king-arthur-pendragon-roleplaying-books/), [more supplements](https://esoteric-rp.blogspot.com/p/pendragon-resources.html)
 - [Paladin](https://www.chaosium.com/paladin/)
 - [Aquelarre](https://drivethrurpg.com/product/237059/Aquelarre)
 - [Chronica Feudalis](https://chronicafeudalis.com/)
