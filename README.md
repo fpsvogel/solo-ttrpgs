@@ -129,6 +129,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Motif](https://www.drivethrurpg.com/browse/pub/7970/Thought-Punks/subcategory/22614_38729/Motif-Framework)
 - [Omen (WIP)](https://therandomrefuge.substack.com/p/introducing-omen-gme)
 - [The Covetous Poet's Adventure Creator and Solo GM Guidebook](https://www.drivethrurpg.com/en/product/129909/the-covetous-poet-s-adventure-creator-and-solo-gm-guidebook)
+- [Pettish (player emulator)](https://katamoiran.itch.io/pettish)
 
 #### Simpler oracles
 
@@ -137,6 +138,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Juice Oracle](https://thunder9861.itch.io/juice-oracle)
 - [These Meagre Entrails](https://mendercap.itch.io/these-meagre-entrails)
 - [Bivius](https://lostpangolin.wordpress.com/downloads/)
+- [Triple-O (player emulator)](https://capacle.itch.io/triple-o)
 
 #### Tiny oracles
 
