@@ -45,7 +45,9 @@ This list is based on my own interests, so it includes some obscure stuff and om
 
 These are aids to "playing a story" in my head. I'm parked here for now because life with a baby and a toddler isn't conducive to sitting down to play a game.
 
-- d10 in my head: [sum of letter positions of a random word](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/)
+- Pseudorandom numbers in my head:
+  - [d6](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/): presence of one of the letters RHINOS
+  - [d10](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/): sum of letter positions of a random word
   - Or an online dice roller: [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
 - Simple oracles that I can pull up on my phone, when I need inspiration:
   - [watchout4snakes random word generator](http://watchout4snakes.com/Random/RandomPhrase)
@@ -55,6 +57,9 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [TaleWeaver instructions](https://www.scribd.com/document/98412/Tale-Weaver)
   - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
   - [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
+- More "play in your head" ideas:
+  - [Hands-Free RPG](https://scriptorum.itch.io/hands-free-rpg)
+  - [Daydreamer](https://www.reddit.com/r/Solo_Roleplaying/comments/ie36ph/daydream_universal_a_solo_diceless_paperless_fu/)
 
 ### Kid-friendly
 
