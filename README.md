@@ -23,6 +23,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
     - [Tiny oracles](#tiny-oracles)
   - [DIY form-a-word oracles](#diy-form-a-word-oracles)
     - [Visual/card-based oracles](#visualcard-based-oracles)
+  - [Adventure creation](#adventure-creation)
   - [Random content generation](#random-content-generation)
   - [Mapmaking](#mapmaking)
   - [On the computer](#on-the-computer)
@@ -133,7 +134,6 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [CRGE/UNE/BOLD](https://www.drivethrurpg.com/browse/pub/7251/Conjecture-Games)
 - [Motif](https://www.drivethrurpg.com/browse/pub/7970/Thought-Punks/subcategory/22614_38729/Motif-Framework)
 - [Omen (WIP)](https://therandomrefuge.substack.com/p/introducing-omen-gme)
-- [The Covetous Poet's Adventure Creator and Solo GM Guidebook](https://www.drivethrurpg.com/en/product/129909/the-covetous-poet-s-adventure-creator-and-solo-gm-guidebook)
 - [Pettish (player emulator)](https://katamoiran.itch.io/pettish)
 
 #### Simpler oracles
@@ -165,6 +165,11 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Story Engine Deck](https://storyenginedeck.com)
 - [The Wildwood Tarot](https://www.thewildwoodtarot.com)
 - [StoryWorld cards](https://www.goodreads.com/series/68911-storyworld-create-a-story)
+
+### Adventure creation
+
+- [The Adventure Crafter](https://www.drivethrurpg.com/en/product/261479/the-adventure-crafter) (or [one-page](https://www.drivethrurpg.com/en/product/436964/mythic-magazine-volume-29), [deck](https://www.drivethrurpg.com/en/product/303881/the-adventure-crafter-deck))
+- [The Covetous Poet's Adventure Creator and Solo GM Guidebook](https://www.drivethrurpg.com/en/product/129909/the-covetous-poet-s-adventure-creator-and-solo-gm-guidebook)
 
 ### Random content generation
 
