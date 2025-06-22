@@ -90,10 +90,9 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 - [Pencilvillage](https://pencilvillage.org/)
 - [Glide](https://sasquatchgames.itch.io/glide)
 - [Artefact / Bucket of Bolts / Counterpart](https://www.kickstarter.com/projects/jhrrsn/the-lost-and-found-collection)
+- [The Wayfarer](https://lumenwrites.itch.io/the-wayfarer)
 
 ### World-building
-
-These could be useful for building out the setting of a game or story.
 
 - [Microscope](https://www.lamemage.com/microscope). Solo resources for it:
   - [Lens](https://docs.google.com/document/d/1isWrSPL417PN6eSCYQmxKnFxPXQUn9IjZW4W2xfToDc)
@@ -105,6 +104,7 @@ These could be useful for building out the setting of a game or story.
 - [Foundations](https://leyline-press.itch.io/foundations-digital-edition-bundle)
 - [Cartograph](https://the-ravensridge-press.itch.io/cartograph-atlas-edition)
 - [Ex Novo](https://sharkbombs.itch.io/ex-novo) and [Ex Umbra](https://sharkbombs.itch.io/ex-umbra)
+- [Journey](https://www.graycastlepress.com/journey/)
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
 
 ### Medieval
