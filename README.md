@@ -106,6 +106,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 - [Ex Novo](https://sharkbombs.itch.io/ex-novo) and [Ex Umbra](https://sharkbombs.itch.io/ex-umbra)
 - [Journey](https://www.graycastlepress.com/journey/)
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
+- [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
 
 ### Medieval
 
