@@ -51,7 +51,6 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [d10](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/): sum of letter positions of a random word
   - Or an online dice roller: [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
 - Simple oracles that I can pull up on my phone, when I need inspiration:
-  - [watchout4snakes random word generator](http://watchout4snakes.com/Random/RandomPhrase)
   - [Zero Dice](https://tangent-zero.com/zero_dice/zero_dice.htm)
   - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) if I go to a random page in the PDF
 - Story ideas:
