@@ -59,6 +59,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
   - [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
 - More "play in your head" ideas:
+  - [Diedream](https://alfredvalley.itch.io/diedream)
   - [Hands-Free RPG](https://scriptorum.itch.io/hands-free-rpg)
   - [Daydreamer](https://www.reddit.com/r/Solo_Roleplaying/comments/ie36ph/daydream_universal_a_solo_diceless_paperless_fu/)
 
@@ -151,7 +152,6 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [You Sure?](https://capacle.itch.io/you-sure)
 - [Push](https://capacle.itch.io/push)
 - [Recluse](https://gravenutterance.itch.io/recluse)
-- [Diedream](https://alfredvalley.itch.io/diedream)
 
 ### DIY form-a-word oracles
 
