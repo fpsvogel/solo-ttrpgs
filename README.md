@@ -22,7 +22,6 @@ This list is based on my own interests, so it includes some obscure stuff and om
     - [Simpler oracles](#simpler-oracles)
     - [Tiny oracles](#tiny-oracles)
   - [DIY form-a-word oracles](#diy-form-a-word-oracles)
-    - [Visual/card-based oracles](#visualcard-based-oracles)
   - [Adventure creation](#adventure-creation)
   - [Random content generation](#random-content-generation)
   - [Mapmaking](#mapmaking)
@@ -50,13 +49,9 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [d6](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/): presence of one of the letters RHINOS
   - [d10](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/): sum of letter positions of a random word
   - Or an online dice roller: [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
-- Simple oracles that I can pull up on my phone, when I need inspiration:
-  - [Zero Dice](https://tangent-zero.com/zero_dice/zero_dice.htm)
-  - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) if I go to a random page in the PDF
-- Story ideas:
-  - [TaleWeaver instructions](https://www.scribd.com/document/98412/Tale-Weaver)
+- Sources of inspiration/ideas:
+  - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) and [instructions](https://www.scribd.com/document/98412/Tale-Weaver)
   - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
-  - [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
 - More "play in your head" ideas:
   - [Diedream](https://alfredvalley.itch.io/diedream)
   - [Hands-Free RPG](https://scriptorum.itch.io/hands-free-rpg)
@@ -139,6 +134,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 #### Simpler oracles
 
+- The GameMaster's Apprentice (GMA) cards: [online]((https://jamesturneronline.net/game-masters-apprentice)) or [physical cards](https://www.drivethrurpg.com/product/125685/The-GameMasters-Apprentice-Base-Deck), plus [GMA Adventure Guide Pack](https://www.drivethrurpg.com/product/179835). [ALONe](https://www.drivethrurpg.com/product/168609) is a solo RPG system based on the cards.
 - [One Page Solo Engine](https://inflatablestudios.itch.io/one-page-solo-engine) (includes links to a mobile app)
 - [MUNE](https://forums.giantitp.com/showthread.php?567342-MUNE-a-GM-emulator) and [the mobile app](https://play.google.com/store/apps/details?id=com.toppinc.dnd.muneengine)
 - [Juice Oracle](https://thunder9861.itch.io/juice-oracle)
@@ -148,6 +144,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 #### Tiny oracles
 
+- [Zero Dice](https://tangent-zero.com/zero_dice/zero_dice.htm)
 - [You Sure?](https://capacle.itch.io/you-sure)
 - [Push](https://capacle.itch.io/push)
 - [Recluse](https://gravenutterance.itch.io/recluse)
@@ -157,15 +154,6 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Q-Less](https://qlessgame.com) or other [letter dice](https://www.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle)
 - [Bananagrams](https://bananagrams.com/products/bananagrams) or a bag of Scrabble tiles
 
-#### Visual/card-based oracles
-
-- [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck)
-- The GameMaster's Apprentice (GMA) cards: [online]((https://jamesturneronline.net/game-masters-apprentice)) or [physical cards](https://www.drivethrurpg.com/product/125685/The-GameMasters-Apprentice-Base-Deck), plus [GMA Adventure Guide Pack](https://www.drivethrurpg.com/product/179835). [ALONe](https://www.drivethrurpg.com/product/168609) is a solo RPG system based on the cards.
-- [Rory's Story Cubes](https://www.storycubes.com/en/) are especially good for kids.
-- [Story Engine Deck](https://storyenginedeck.com)
-- [The Wildwood Tarot](https://www.thewildwoodtarot.com)
-- [StoryWorld cards](https://www.goodreads.com/series/68911-storyworld-create-a-story)
-
 ### Adventure creation
 
 - [The Adventure Crafter](https://www.drivethrurpg.com/en/product/261479/the-adventure-crafter) (or [one-page](https://www.drivethrurpg.com/en/product/436964/mythic-magazine-volume-29), [deck](https://www.drivethrurpg.com/en/product/303881/the-adventure-crafter-deck))
@@ -173,11 +161,13 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 ### Random content generation
 
+- [Story Engine Deck](https://storyenginedeck.com) for story prompts
 - Many [lists of tools](https://www.reddit.com/r/rpg_generators/comments/142jvzk/30_days_of_rpg_generator_sites_full_list)
 - [Chaos Gen](https://www.chaosgen.com/gen-tags/fantasy) (fantasy RPG generators)
 - [Guide to Free and PWYW Random Table PDFs for Fantasy](https://www.randroll.com/guide-free-pdfs-fantasy) (and [its counterpart for sci-fi and other non-fantasy](https://www.randroll.com/guide-free-pdfs-futuristic/))
 - [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith) has generators from various TTRPGs
 - Plot generators: [1](https://www.herebetaverns.com/plot-hook-generator), [2](https://www.plot-generator.org.uk), [3](https://blog.reedsy.com/plot-generator/), [4](https://writingexercises.co.uk/plotgenerator.php), [5](https://donjon.bin.sh/fantasy/adventure/), [6](https://www.seventhsanctum.com/generate.php?Genname=storygen)
+- [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
 
 ### Mapmaking
 
