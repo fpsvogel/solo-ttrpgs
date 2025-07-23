@@ -158,10 +158,11 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 - [The Adventure Crafter](https://www.drivethrurpg.com/en/product/261479/the-adventure-crafter) (or [one-page](https://www.drivethrurpg.com/en/product/436964/mythic-magazine-volume-29), [deck](https://www.drivethrurpg.com/en/product/303881/the-adventure-crafter-deck))
 - [The Covetous Poet's Adventure Creator and Solo GM Guidebook](https://www.drivethrurpg.com/en/product/129909/the-covetous-poet-s-adventure-creator-and-solo-gm-guidebook)
+- [Story Engine Deck](https://storyenginedeck.com) for story prompts
+- [Deck of Endless Adventure Ideas](https://lumenwrites.itch.io/endless-adventure-ideas)
 
 ### Random content generation
 
-- [Story Engine Deck](https://storyenginedeck.com) for story prompts
 - Many [lists of tools](https://www.reddit.com/r/rpg_generators/comments/142jvzk/30_days_of_rpg_generator_sites_full_list)
 - [Chaos Gen](https://www.chaosgen.com/gen-tags/fantasy) (fantasy RPG generators)
 - [Guide to Free and PWYW Random Table PDFs for Fantasy](https://www.randroll.com/guide-free-pdfs-fantasy) (and [its counterpart for sci-fi and other non-fantasy](https://www.randroll.com/guide-free-pdfs-futuristic/))
