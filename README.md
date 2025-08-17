@@ -13,9 +13,8 @@ This list is based on my own interests, so it includes some obscure stuff and om
   - [Minimal/freeform](#minimalfreeform)
   - [Kid-friendly](#kid-friendly)
   - [Space](#space)
-  - [Exploration](#exploration)
-  - [World-building](#world-building)
   - [Medieval](#medieval)
+  - [World-building/exploration](#world-buildingexploration)
 - [Tools](#tools)
   - [Oracles](#oracles)
     - [Large oracles](#large-oracles)
@@ -78,31 +77,6 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [Solo](https://www.drivethrurpg.com/en/product/519444/solo-second-edition)
   - [An explanation of the various versions](https://www.reddit.com/r/rpg/comments/1efz4fg/comment/lfopl95/)
 
-### Exploration
-
-- [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
-- [DELVE](https://www.blackwellwriter.com/en-us/products/delve-a-solo-map-drawing-game) or [UMBRA](https://www.blackwellwriter.com/en-us/products/umbra-a-game-of-final-frontiers)
-- [Pencilvillage](https://pencilvillage.org/)
-- [Glide](https://sasquatchgames.itch.io/glide)
-- [Artefact / Bucket of Bolts / Counterpart](https://www.kickstarter.com/projects/jhrrsn/the-lost-and-found-collection)
-- [The Wayfarer](https://lumenwrites.itch.io/the-wayfarer)
-
-### World-building
-
-- [Microscope](https://www.lamemage.com/microscope). Solo resources for it:
-  - [Lens](https://docs.google.com/document/d/1isWrSPL417PN6eSCYQmxKnFxPXQUn9IjZW4W2xfToDc)
-  - [Videos by Clare C. Marshall](https://www.youtube.com/watch?v=q4h9Yg1UWjY)
-  - [Blog post](https://whyigame.wordpress.com/2018/01/14/solo-rp-microscope-rpg)
-  - Series of posts: [1](https://web.archive.org/web/20170107021652/http://www.risusmonkey.com/2011/03/solo-gaming-on-long-flight.html), [2](https://web.archive.org/web/20160330173740/http://www.risusmonkey.com/2011/03/solo-gaming-in-flight-part-2-first-pass.html), [3](https://web.archive.org/web/20160330172817/http://www.risusmonkey.com/2011/03/solo-gaming-in-flight-part-3-making.html), [4](https://web.archive.org/web/20160330173127/http://www.risusmonkey.com/2011/03/solo-gaming-in-flight-part-4-making.html)
-  - [Utgar's Chronicles](https://utgars-chronicles.app/) is not for solo play, but is useful to mention here because it's for online multiplayer.
-- [Mappa Imperium](https://nookrium.itch.io/mappa-imperium)
-- [Foundations](https://leyline-press.itch.io/foundations-digital-edition-bundle)
-- [Cartograph](https://the-ravensridge-press.itch.io/cartograph-atlas-edition)
-- [Ex Novo](https://sharkbombs.itch.io/ex-novo) and [Ex Umbra](https://sharkbombs.itch.io/ex-umbra)
-- [Journey](https://www.graycastlepress.com/journey/)
-- [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
-- [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
-
 ### Medieval
 
 These are a lot more crunchy (numbers-heavy) than I would normally go for, but I just can't resist their medieval literary-historical settings.
@@ -114,6 +88,29 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [Wolves of God](https://drivethrurpg.com/product/308470/Wolves-of-God-Adventures-in-Dark-Ages-England)
 - [1366](https://drivethrurpg.com/product/111240/1366-Second-Edition)
 - [Maelstrom](https://drivethrurpg.com/publisher/667/arion-games/category/4422/maelstrom), especially Domesday and Rome
+
+### World-building/exploration
+
+- [Artefact / Bucket of Bolts / Counterpart](https://www.kickstarter.com/projects/jhrrsn/the-lost-and-found-collection)
+- [Cartograph](https://the-ravensridge-press.itch.io/cartograph-atlas-edition)
+- [DELVE](https://www.blackwellwriter.com/en-us/products/delve-a-solo-map-drawing-game) or [UMBRA](https://www.blackwellwriter.com/en-us/products/umbra-a-game-of-final-frontiers)
+- [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
+- [Ex Novo](https://sharkbombs.itch.io/ex-novo) and [Ex Umbra](https://sharkbombs.itch.io/ex-umbra)
+- [Fantasy Civ Solo](https://paperdicegames.itch.io/fantasy-civ-solo-discovery-and-doom)
+- [Foundations](https://leyline-press.itch.io/foundations-digital-edition-bundle)
+- [Glide](https://sasquatchgames.itch.io/glide)
+- [Journey](https://www.graycastlepress.com/journey/)
+- [Mappa Imperium](https://nookrium.itch.io/mappa-imperium)
+- [Microscope](https://www.lamemage.com/microscope). Solo resources for it:
+  - [Lens](https://docs.google.com/document/d/1isWrSPL417PN6eSCYQmxKnFxPXQUn9IjZW4W2xfToDc)
+  - [Videos by Clare C. Marshall](https://www.youtube.com/watch?v=q4h9Yg1UWjY)
+  - [Blog post](https://whyigame.wordpress.com/2018/01/14/solo-rp-microscope-rpg)
+  - Series of posts: [1](https://web.archive.org/web/20170107021652/http://www.risusmonkey.com/2011/03/solo-gaming-on-long-flight.html), [2](https://web.archive.org/web/20160330173740/http://www.risusmonkey.com/2011/03/solo-gaming-in-flight-part-2-first-pass.html), [3](https://web.archive.org/web/20160330172817/http://www.risusmonkey.com/2011/03/solo-gaming-in-flight-part-3-making.html), [4](https://web.archive.org/web/20160330173127/http://www.risusmonkey.com/2011/03/solo-gaming-in-flight-part-4-making.html)
+  - [Utgar's Chronicles](https://utgars-chronicles.app/) is not for solo play, but is useful to mention here because it's for online multiplayer.
+- [Pencilvillage](https://pencilvillage.org/)
+- [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
+- [The Wayfarer](https://lumenwrites.itch.io/the-wayfarer)
+- [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
 
 ## Tools
 
