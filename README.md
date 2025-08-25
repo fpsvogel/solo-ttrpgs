@@ -93,6 +93,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 
 - [Artefact / Bucket of Bolts / Counterpart](https://www.kickstarter.com/projects/jhrrsn/the-lost-and-found-collection)
 - [Cartograph](https://the-ravensridge-press.itch.io/cartograph-atlas-edition)
+- [Cosmoira](https://capacle.itch.io/cosmoira)
 - [DELVE](https://www.blackwellwriter.com/en-us/products/delve-a-solo-map-drawing-game) or [UMBRA](https://www.blackwellwriter.com/en-us/products/umbra-a-game-of-final-frontiers)
 - [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
 - [Ex Novo](https://sharkbombs.itch.io/ex-novo) and [Ex Umbra](https://sharkbombs.itch.io/ex-umbra)
@@ -108,6 +109,8 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
   - Series of posts: [1](https://web.archive.org/web/20170107021652/http://www.risusmonkey.com/2011/03/solo-gaming-on-long-flight.html), [2](https://web.archive.org/web/20160330173740/http://www.risusmonkey.com/2011/03/solo-gaming-in-flight-part-2-first-pass.html), [3](https://web.archive.org/web/20160330172817/http://www.risusmonkey.com/2011/03/solo-gaming-in-flight-part-3-making.html), [4](https://web.archive.org/web/20160330173127/http://www.risusmonkey.com/2011/03/solo-gaming-in-flight-part-4-making.html)
   - [Utgar's Chronicles](https://utgars-chronicles.app/) is not for solo play, but is useful to mention here because it's for online multiplayer.
 - [Pencilvillage](https://pencilvillage.org/)
+- [People, Places & Perils](https://capacle.itch.io/people-places-perils)
+- [The Land Beyond](https://capacle.itch.io/the-land-beyond)
 - [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
 - [The Wayfarer](https://lumenwrites.itch.io/the-wayfarer)
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
@@ -122,7 +125,8 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 #### Large oracles
 
-- [Mythic GME](https://www.drivethrurpg.com/product/422929/Mythic-Game-Master-Emulator-Second-Edition) (including [a mobile app](https://www.wordmillgames.com/mythic-gme-2e-app.html))
+- [Mythic GME](https://www.drivethrurpg.com/product/422929/Mythic-Game-Master-Emulator-Second-Edition) (including [a mobile app](https://www.wordmillgames.com/mythic-gme-2e-app.html), and [a one-page version](https://www.drivethrurpg.com/en/product/432955/one-page-mythic-game-master-emulator))
+  - Also explore Mythic Magazine supplements, e.g. [3-act structure in #42](https://www.drivethrurpg.com/en/product/483448/mythic-magazine-volume-42)
 - [JeansenVaars](https://jeansenvaars.itch.io) Unfolding Machine tools (including [a mobile app](https://jeansenvaars.itch.io/pum-companion))
 - [CRGE/UNE/BOLD](https://www.drivethrurpg.com/browse/pub/7251/Conjecture-Games)
 - [Motif](https://www.drivethrurpg.com/browse/pub/7970/Thought-Punks/subcategory/22614_38729/Motif-Framework)
@@ -138,6 +142,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [These Meagre Entrails](https://mendercap.itch.io/these-meagre-entrails)
 - [Bivius](https://lostpangolin.wordpress.com/downloads/)
 - [Triple-O (player emulator)](https://capacle.itch.io/triple-o)
+- [Weird, Whimsy & Wonder](https://capacle.itch.io/weird-whimsy-wonder)
 
 #### Tiny oracles
 
