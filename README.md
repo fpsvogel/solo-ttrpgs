@@ -69,6 +69,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
 - [Notorious](https://alwayscheckers.itch.io/notorious)
 - [Star Solo](https://paperdicegames.com/star-solo)
+- [Nomadic](https://farirpgs.itch.io/nomadic)
 - Cepheus Engine:
   - [Retro Sci-Fi Rules](https://www.drivethrurpg.com/en/product/456143/retro-sci-fi-rules) is just an updated Traveller. It's a simple and minimalist starting point.
   - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
@@ -92,6 +93,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 ### World-building/exploration
 
 - [Artefact / Bucket of Bolts / Counterpart](https://www.kickstarter.com/projects/jhrrsn/the-lost-and-found-collection)
+- [Between the Skies](https://huffa.itch.io/between-the-skies)
 - [Cartograph](https://the-ravensridge-press.itch.io/cartograph-atlas-edition)
 - [Cosmoira](https://capacle.itch.io/cosmoira)
 - [DELVE](https://www.blackwellwriter.com/en-us/products/delve-a-solo-map-drawing-game) or [UMBRA](https://www.blackwellwriter.com/en-us/products/umbra-a-game-of-final-frontiers)
