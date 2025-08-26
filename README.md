@@ -44,10 +44,9 @@ This list is based on my own interests, so it includes some obscure stuff and om
 
 These are aids to "playing a story" in my head. I'm parked here for now because life with a baby and a toddler isn't conducive to sitting down to play a game.
 
-- Pseudorandom numbers in my head:
-  - [d6](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/): presence of one of the letters RHINOS
-  - [d10](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/): sum of letter positions of a random word
-  - Or an online dice roller: [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
+- Pseudorandom numbers in my head: [d10](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/): sum of letter positions of a random word
+  - Alternatives: [d6 (RHINOS)](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/), or the online [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
+- Random word as a simple oracle: [Random Word](https://randomword.com/), [Weird Words](https://randomwordgenerator.com/weird-word.php),
 - Sources of inspiration/ideas:
   - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) and [instructions](https://www.scribd.com/document/98412/Tale-Weaver)
   - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
