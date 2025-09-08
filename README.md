@@ -101,6 +101,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [Fantasy Civ Solo](https://paperdicegames.itch.io/fantasy-civ-solo-discovery-and-doom)
 - [Foundations](https://leyline-press.itch.io/foundations-digital-edition-bundle)
 - [Glide](https://sasquatchgames.itch.io/glide)
+- [Hawker](https://nemysisrelapse.itch.io/hawkerexpanded)
 - [Journey](https://www.graycastlepress.com/journey/)
 - [Mappa Imperium](https://nookrium.itch.io/mappa-imperium)
 - [Microscope](https://www.lamemage.com/microscope). Solo resources for it:
