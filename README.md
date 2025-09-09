@@ -35,7 +35,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
 
 ## Beginner's guides
 
-- [A Beginner's Guide to Solo Role Playing (solo RPGs)](https://www.youtube.com/watch?v=iYHt1pdScK0)
+- [How to Start Solo RPGs](https://www.youtube.com/watch?v=qLDgdNpbMHM)
 - [Tips for Solo RPG Gamers](https://paperdicegames.com/2025/02/03/my-top-tips-for-solo-rpg-gamers/)
 
 ## Games
