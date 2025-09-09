@@ -46,7 +46,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 
 - Pseudorandom numbers in my head: [d10](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/): sum of letter positions of a random word
   - Alternatives: [d6 (RHINOS)](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/), or the online [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
-- Random word as a simple oracle: [Random Word](https://randomword.com/), [Weird Words](https://randomwordgenerator.com/weird-word.php),
+- Random word as a simple oracle: [Random Word](https://randomword.com/), [Weird Words](https://randomwordgenerator.com/weird-word.php)
 - Sources of inspiration/ideas:
   - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) and [instructions](https://www.scribd.com/document/98412/Tale-Weaver)
   - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
@@ -54,6 +54,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [Diedream](https://alfredvalley.itch.io/diedream)
   - [Hands-Free RPG](https://scriptorum.itch.io/hands-free-rpg)
   - [Daydreamer](https://www.reddit.com/r/Solo_Roleplaying/comments/ie36ph/daydream_universal_a_solo_diceless_paperless_fu/)
+  <!-- another possibility: https://www.reddit.com/r/Solo_Roleplaying/comments/1m47qql/comment/n45d5yo -->
 
 ### Kid-friendly
 
@@ -116,6 +117,12 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
 - [The Wayfarer](https://lumenwrites.itch.io/the-wayfarer)
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
+
+<!--
+GMless:
+- Dialect (and others by the publisher: Xenolanguage and Sign)
+- An Altogether Different River
+-->
 
 ## Tools
 
