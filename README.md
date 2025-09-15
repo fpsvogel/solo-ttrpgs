@@ -89,6 +89,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [Wolves of God](https://drivethrurpg.com/product/308470/Wolves-of-God-Adventures-in-Dark-Ages-England)
 - [1366](https://drivethrurpg.com/product/111240/1366-Second-Edition)
 - [Maelstrom](https://drivethrurpg.com/publisher/667/arion-games/category/4422/maelstrom), especially Domesday and Rome
+- [GURPS Middle Ages 1](https://www.sjgames.com/gurps/books/middleages1/)
 
 ### World-building/exploration
 
