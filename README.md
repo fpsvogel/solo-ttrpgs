@@ -117,6 +117,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [People, Places & Perils](https://capacle.itch.io/people-places-perils)
 - [The Land Beyond](https://capacle.itch.io/the-land-beyond)
 - [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
+- [The Royal Cartographer](https://albi13.itch.io/the-royal-cartographer)
 - [The Wayfarer](https://lumenwrites.itch.io/the-wayfarer)
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
 
