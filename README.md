@@ -106,6 +106,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [Glide](https://sasquatchgames.itch.io/glide)
 - [Hawker](https://nemysisrelapse.itch.io/hawkerexpanded)
 - [Journey](https://www.graycastlepress.com/journey/)
+- [Lineage: Epoch Edition](https://wyhgames.itch.io/lineage-epoch-edition)
 - [Mappa Imperium](https://nookrium.itch.io/mappa-imperium)
 - [Microscope](https://www.lamemage.com/microscope). Solo resources for it:
   - [Lens](https://docs.google.com/document/d/1isWrSPL417PN6eSCYQmxKnFxPXQUn9IjZW4W2xfToDc)
