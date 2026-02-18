@@ -57,6 +57,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [Hands-Free RPG](https://scriptorum.itch.io/hands-free-rpg)
   - [Daydreamer](https://www.reddit.com/r/Solo_Roleplaying/comments/ie36ph/daydream_universal_a_solo_diceless_paperless_fu/)
   <!-- another possibility: https://www.reddit.com/r/Solo_Roleplaying/comments/1m47qql/comment/n45d5yo -->
+<!-- https://rpgshift.com/pages/how-to-play-shift -->
 
 ### Kid-friendly
 
