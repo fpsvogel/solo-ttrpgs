@@ -16,6 +16,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
   - [Medieval](#medieval)
   - [World-building/exploration](#world-buildingexploration)
   - [Contemplative](#contemplative)
+  - [Mystery](#mystery)
 - [Tools](#tools)
   - [Oracles](#oracles)
     - [Large oracles](#large-oracles)
@@ -135,6 +136,10 @@ GMless:
 - Dialect (and others by the publisher: Xenolanguage and Sign)
 - An Altogether Different River
 -->
+
+### Mystery
+
+- [That One Time We Solved a Mystery](https://www.drivethrurpg.com/en/product/556082/that-one-time-we-solved-a-mystery)
 
 ## Tools
 
