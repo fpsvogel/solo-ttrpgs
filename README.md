@@ -119,10 +119,14 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [Pencilvillage](https://pencilvillage.org/)
 - [People, Places & Perils](https://capacle.itch.io/people-places-perils)
 - [The Land Beyond](https://capacle.itch.io/the-land-beyond)
-- [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
+- [The Perilous Wilds](https://lampblack-brimstone.itch.io/the-perilous-wilds-revised-edition) and [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
 - [The Royal Cartographer](https://albi13.itch.io/the-royal-cartographer)
 - [The Wayfarer](https://lumenwrites.itch.io/the-wayfarer)
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
+<!-- Too much detail / too specific:
+  - Tome of Worldbuilding, Tome of Adventure Design: https://www.drivethrurpg.com/en/publisher/2725/mythmere-games
+  - Wondrous Worlds, Dangerous Destinations, Spectacular Settlements: https://nordgamesllc.com/collections/worldbuilding
+-->
 
 ### Contemplative
 
