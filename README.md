@@ -17,6 +17,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
   - [World-building/exploration](#world-buildingexploration)
   - [Contemplative](#contemplative)
   - [Mystery](#mystery)
+  - [Generic](#generic)
 - [Tools](#tools)
   - [Oracles](#oracles)
     - [Large oracles](#large-oracles)
@@ -57,7 +58,6 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
   - [Hands-Free RPG](https://scriptorum.itch.io/hands-free-rpg)
   - [Daydreamer](https://www.reddit.com/r/Solo_Roleplaying/comments/ie36ph/daydream_universal_a_solo_diceless_paperless_fu/)
   <!-- another possibility: https://www.reddit.com/r/Solo_Roleplaying/comments/1m47qql/comment/n45d5yo -->
-<!-- https://rpgshift.com/pages/how-to-play-shift -->
 
 ### Kid-friendly
 
@@ -145,6 +145,14 @@ GMless:
 ### Mystery
 
 - [That One Time We Solved a Mystery](https://www.drivethrurpg.com/en/product/556082/that-one-time-we-solved-a-mystery)
+
+### Generic
+
+These are generally narrative-focused. Roughly in order from least to most complex:
+
+- [Shift](https://rpgshift.com/pages/how-to-play-shift)
+- [Questworlds](https://www.chaosium.com/questworlds-core-rulebook-pdf/) ([SRD](https://chaosium.itch.io/questworlds))
+- [Cortex Prime](https://www.youtube.com/watch?v=K3Pnlgls97E)
 
 ## Tools
 
