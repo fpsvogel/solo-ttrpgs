@@ -182,6 +182,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Bivius](https://lostpangolin.wordpress.com/downloads/)
 - [Triple-O (player emulator)](https://capacle.itch.io/triple-o)
 - [Weird, Whimsy & Wonder](https://capacle.itch.io/weird-whimsy-wonder)
+- [The Twist Oracle](https://majresdev.itch.io/the-twist-oracle)
 
 #### Tiny oracles
 
