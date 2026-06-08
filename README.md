@@ -164,12 +164,12 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 #### Large oracles
 
-- [Mythic GME](https://www.drivethrurpg.com/product/422929/Mythic-Game-Master-Emulator-Second-Edition) (including [a mobile app](https://www.wordmillgames.com/mythic-gme-2e-app.html), and [a one-page version](https://www.drivethrurpg.com/en/product/432955/one-page-mythic-game-master-emulator))
+- [Mythic GME](https://www.drivethrurpg.com/product/422929/Mythic-Game-Master-Emulator-Second-Edition) (including [apps](https://www.wordmillgames.com/mythic-gme-2e-app.html), and [a one-page version](https://www.drivethrurpg.com/en/product/432955/one-page-mythic-game-master-emulator))
   - Also explore Mythic Magazine supplements, e.g. [3-act structure in #42](https://www.drivethrurpg.com/en/product/483448/mythic-magazine-volume-42)
 - [JeansenVaars](https://jeansenvaars.itch.io) Unfolding Machine tools (including [a mobile app](https://jeansenvaars.itch.io/pum-companion))
 - [CRGE/UNE/BOLD](https://www.drivethrurpg.com/browse/pub/7251/Conjecture-Games)
 - [Motif](https://www.drivethrurpg.com/browse/pub/7970/Thought-Punks/subcategory/22614_38729/Motif-Framework)
-- [Omen (WIP)](https://therandomrefuge.substack.com/p/introducing-omen-gme)
+- [Omen (WIP)](https://therandomrefuge.substack.com/)
 - [Pettish (player emulator)](https://katamoiran.itch.io/pettish)
 
 #### Simpler oracles
