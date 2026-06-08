@@ -171,6 +171,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Motif](https://www.drivethrurpg.com/browse/pub/7970/Thought-Punks/subcategory/22614_38729/Motif-Framework)
 - [Omen (WIP)](https://therandomrefuge.substack.com/)
 - [Pettish (player emulator)](https://katamoiran.itch.io/pettish)
+- [TREY](https://www.drivethrurpg.com/en/product/469224/trey-solo-roleplaying)
 
 #### Simpler oracles
 
