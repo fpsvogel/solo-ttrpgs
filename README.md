@@ -234,7 +234,10 @@ I currently don't use TTRPG tools on the computer, instead going with a low-tech
 
 ### Gamebooks
 
-See [the paragraph on gamebooks in my blog post "Building a text-based game"](https://fpsvogel.com/posts/2023/why-make-a-text-based-game#trying-out-the-sub-genres:~:text=You%20can%20even%20play%20choice%2Dbased%20IF%20in%20print.%20They%E2%80%99re%20called%20gamebooks).
+- [Sherlock Holmes Solo Mysteries](https://archive.org/search?query=Sherlock%20Holmes%20Solo%20Mysteries)
+- [Virtual Reality Adventure](https://archive.org/search?query=Virtual+Reality+Adventure)
+- [Choose Your Own Adventure](https://www.cyoa.com/) for nostalgia's sake
+- [Gamebooks Guide for Beginners](https://gamebooksguide.blogspot.com/2024/04/which-gamebook-to-choose-guide-for.html)
 
 ### Board games
 
