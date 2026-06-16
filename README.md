@@ -24,6 +24,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
     - [Simpler oracles](#simpler-oracles)
     - [Tiny oracles](#tiny-oracles)
   - [DIY form-a-word oracles](#diy-form-a-word-oracles)
+  - [Player emulators](#player-emulators)
   - [Adventure creation](#adventure-creation)
   - [Random content generation](#random-content-generation)
   - [Mapmaking](#mapmaking)
@@ -170,7 +171,6 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [CRGE/UNE/BOLD](https://www.drivethrurpg.com/browse/pub/7251/Conjecture-Games)
 - [Motif](https://www.drivethrurpg.com/browse/pub/7970/Thought-Punks/subcategory/22614_38729/Motif-Framework)
 - [Omen (WIP)](https://therandomrefuge.substack.com/)
-- [Pettish (player emulator)](https://katamoiran.itch.io/pettish)
 - [TREY](https://www.drivethrurpg.com/en/product/469224/trey-solo-roleplaying)
 
 #### Simpler oracles
@@ -181,7 +181,6 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Juice Oracle](https://thunder9861.itch.io/juice-oracle)
 - [These Meagre Entrails](https://mendercap.itch.io/these-meagre-entrails)
 - [Bivius](https://lostpangolin.wordpress.com/downloads/)
-- [Triple-O (player emulator)](https://capacle.itch.io/triple-o)
 - [Weird, Whimsy & Wonder](https://capacle.itch.io/weird-whimsy-wonder)
 - [The Twist Oracle](https://majresdev.itch.io/the-twist-oracle)
 
@@ -196,6 +195,13 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 - [Q-Less](https://qlessgame.com) or other [letter dice](https://www.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle)
 - [Bananagrams](https://bananagrams.com/products/bananagrams) or a bag of Scrabble tiles
+
+### Player emulators
+
+- [Pettish](https://katamoiran.itch.io/pettish)
+- [Mythic Magazine #41: Mythic as a Player Emulator](https://www.drivethrurpg.com/en/product/479600/mythic-magazine-volume-41)
+- [Triple-O](https://capacle.itch.io/triple-o)
+- [Katamoiran Player Emulator](https://exposit.github.io/katarpgs/pdf/PlayerEmulator.pdf)
 
 ### Adventure creation
 
