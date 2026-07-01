@@ -50,7 +50,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 
 - Pseudorandom numbers in my head: [d10](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/): sum of letter positions of a random word
   - Alternatives: [d6 (RHINOS)](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/), or the online [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
-- Random word as a simple oracle: [Random Word](https://randomword.com/), [Weird Words](https://randomwordgenerator.com/weird-word.php)
+- Random word as a simple oracle: [A.Word.A.Day archives](https://wordsmith.org/awad/archives.html), [Random Word](https://randomword.com/), [Weird Words](https://randomwordgenerator.com/weird-word.php)
 - Sources of inspiration/ideas:
   - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) and [instructions](https://www.scribd.com/document/98412/Tale-Weaver)
   - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
