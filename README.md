@@ -197,7 +197,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 - [The Adventure Crafter](https://www.drivethrurpg.com/en/product/261479/the-adventure-crafter) (or [one-page](https://www.drivethrurpg.com/en/product/436964/mythic-magazine-volume-29), [deck](https://www.drivethrurpg.com/en/product/303881/the-adventure-crafter-deck))
 - [The Covetous Poet's Adventure Creator and Solo GM Guidebook](https://www.drivethrurpg.com/en/product/129909/the-covetous-poet-s-adventure-creator-and-solo-gm-guidebook)
-- [Story Engine Deck](https://storyenginedeck.com) for story prompts
+- [Story Engine Deck](https://storyenginedeck.com) plus [fan prompts](https://honest-charlie-harris.itch.io/story-engine-deck-of-worlds-fan-prompts)
 - [Deck of Endless Adventure Ideas](https://lumenwrites.itch.io/endless-adventure-ideas)
 
 ### Random content generation
