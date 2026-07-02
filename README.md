@@ -64,7 +64,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 - Dungeon Hero ([Vol. 1](https://lonespelunker.itch.io/dungeon-hero), [Vol. 2](https://lonespelunker.itch.io/dungeon-hero-volume-2), [Vol. 3](https://lonespelunker.itch.io/dungeon-hero-volume-3-bump-in-the-night))
 - [Tricube Tales](https://www.drivethrurpg.com/en/product/294202/tricube-tales) plus [one-pagers](https://www.drivethrurpg.com/en/browse?keyword=tricube+tales) and [news thread](https://forum.rpg.net/index.php?threads/tricube-tales-the-one-page-rpg-collection.899696)
 - [The Storymaster's Tales](https://www.storymasterstales.com)
-- [Space Aces: Voyages in Infinite Space](https://www.etsy.com/listing/1646603705/space-aces-voyages-in-infinite-space) plus [supplements](https://p0rthos47.itch.io/) and [Space Aces: Wreck Runners](https://www.drivethrurpg.com/en/product/518636/space-aces-wreck-runners)
+- [Space Aces: Voyages in Infinite Space](https://www.lulu.com/shop/stephen-hans/space-aces-voyages-in-infinite-space/hardcover/product-je99ezd.html?page=1&pageSize=4) (or [PDF](https://p0rthos47.itch.io/space-aces-voyages-in-infinite-space)) plus [supplements](https://p0rthos47.itch.io/)
 
 ### Space
 
@@ -84,7 +84,7 @@ These are aids to "playing a story" in my head. I'm parked here for now because 
 
 These are a lot more crunchy (numbers-heavy) than I would normally go for, but I just can't resist their medieval literary-historical settings.
 
-- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)): [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/), [supplements](https://rollingboxcars.com/2017/09/19/the-essential-list-of-king-arthur-pendragon-roleplaying-books/), [more supplements](https://esoteric-rp.blogspot.com/p/pendragon-resources.html)
+- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)): [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/), [supplements](https://web.archive.org/web/20221002001537/https://rollingboxcars.com/2017/09/19/the-essential-list-of-king-arthur-pendragon-roleplaying-books/), [more supplements](https://esoteric-rp.blogspot.com/p/pendragon-resources.html)
 - [Paladin](https://www.chaosium.com/paladin/)
 - [Aquelarre](https://drivethrurpg.com/product/237059/Aquelarre)
 - [Chronica Feudalis](https://chronicafeudalis.com/)
