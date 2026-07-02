@@ -17,7 +17,6 @@ This list is based on my own interests, so it includes some obscure stuff and om
   - [World-building/exploration](#world-buildingexploration)
   - [Contemplative](#contemplative)
   - [Mystery](#mystery)
-  - [Generic](#generic)
 - [Tools](#tools)
   - [Oracles](#oracles)
     - [Large oracles](#large-oracles)
@@ -145,14 +144,6 @@ GMless:
 ### Mystery
 
 - [That One Time We Solved a Mystery](https://www.drivethrurpg.com/en/product/556082/that-one-time-we-solved-a-mystery)
-
-### Generic
-
-These are generally narrative-focused. Roughly in order from least to most complex:
-
-- [Shift](https://rpgshift.com/pages/how-to-play-shift)
-- [Questworlds](https://www.chaosium.com/questworlds-core-rulebook-pdf/) ([SRD](https://chaosium.itch.io/questworlds))
-- [Cortex Prime](https://www.youtube.com/watch?v=K3Pnlgls97E)
 
 ## Tools
 
