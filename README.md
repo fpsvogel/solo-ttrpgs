@@ -195,10 +195,11 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 ### Adventure creation
 
-- [The Adventure Crafter](https://www.drivethrurpg.com/en/product/261479/the-adventure-crafter) (or [one-page](https://www.drivethrurpg.com/en/product/436964/mythic-magazine-volume-29), [deck](https://www.drivethrurpg.com/en/product/303881/the-adventure-crafter-deck))
-- [The Covetous Poet's Adventure Creator and Solo GM Guidebook](https://www.drivethrurpg.com/en/product/129909/the-covetous-poet-s-adventure-creator-and-solo-gm-guidebook)
+- [Big List of RPG Plots](https://www.drivethrurpg.com/pt/product/202670/big-list-of-rpg-plots) ([abbreviated version](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots))
 - [Story Engine Deck](https://storyenginedeck.com) plus [fan prompts](https://honest-charlie-harris.itch.io/story-engine-deck-of-worlds-fan-prompts)
 - [Deck of Endless Adventure Ideas](https://lumenwrites.itch.io/endless-adventure-ideas)
+- [The Adventure Crafter](https://www.drivethrurpg.com/en/product/261479/the-adventure-crafter) (or [one-page](https://www.drivethrurpg.com/en/product/436964/mythic-magazine-volume-29), [deck](https://www.drivethrurpg.com/en/product/303881/the-adventure-crafter-deck))
+- [The Covetous Poet's Adventure Creator and Solo GM Guidebook](https://www.drivethrurpg.com/en/product/129909/the-covetous-poet-s-adventure-creator-and-solo-gm-guidebook)
 
 ### Random content generation
 
