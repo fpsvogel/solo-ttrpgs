@@ -10,7 +10,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
 - [Community](#community)
 - [Beginner's guides](#beginners-guides)
 - [Games](#games)
-  - [Minimal/freeform](#minimalfreeform)
+  - [Ultra-minimal](#ultra-minimal)
   - [Kid-friendly](#kid-friendly)
   - [Space](#space)
   - [Medieval](#medieval)
@@ -43,16 +43,12 @@ This list is based on my own interests, so it includes some obscure stuff and om
 
 ## Games
 
-### Minimal/freeform
+### Ultra-minimal
 
-These are aids to "playing a story" in my head. I'm parked here for now because life with a baby and a toddler isn't conducive to sitting down to play a game.
+These are aids to "playing a story" in my head, for those times when I can't sit down to play a game.
 
-- Pseudorandom numbers in my head: [d10](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/): sum of letter positions of a random word
-  - Alternatives: [d6 (RHINOS)](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/), or the online [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
-- Random word as a simple oracle: [A.Word.A.Day archives](https://wordsmith.org/awad/archives.html), [Random Word](https://randomword.com/), [Weird Words](https://randomwordgenerator.com/weird-word.php)
-- Sources of inspiration/ideas:
-  - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) and [instructions](https://www.scribd.com/document/98412/Tale-Weaver)
-  - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
+- Random numbers: [d10 in your head (EJOTY)](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/), [d6 in your head (RHINOS)](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/), online [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
+- Random words: [A.Word.A.Day archives](https://wordsmith.org/awad/archives.html), [Random Word](https://randomword.com/), [Weird Words](https://randomwordgenerator.com/weird-word.php)
 - More "play in your head" ideas:
   - [Diedream](https://alfredvalley.itch.io/diedream)
   - [Hands-Free RPG](https://scriptorum.itch.io/hands-free-rpg)
@@ -197,10 +193,12 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 - [Story Engine Deck](https://storyenginedeck.com) plus [fan prompts](https://honest-charlie-harris.itch.io/story-engine-deck-of-worlds-fan-prompts)
 - [Deck of Endless Adventure Ideas](https://lumenwrites.itch.io/endless-adventure-ideas)
+- [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) and [instructions](https://www.scribd.com/document/98412/Tale-Weaver)
 - [The Adventure Crafter](https://www.drivethrurpg.com/en/product/261479/the-adventure-crafter) (or [one-page](https://www.drivethrurpg.com/en/product/436964/mythic-magazine-volume-29), [deck](https://www.drivethrurpg.com/en/product/303881/the-adventure-crafter-deck))
 - [The Covetous Poet's Adventure Creator and Solo GM Guidebook](https://www.drivethrurpg.com/en/product/129909/the-covetous-poet-s-adventure-creator-and-solo-gm-guidebook)
 - [Eureka: 501 Adventure Plots to Inspire Game Masters](https://www.drivethrurpg.com/pt/product/82670/eureka-501-adventure-plots-to-inspire-game-masters)
 - [Big List of RPG Plots](https://www.drivethrurpg.com/pt/product/202670/big-list-of-rpg-plots) ([abbreviated version](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots))
+- [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
 
 ### Random content generation
 
