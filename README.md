@@ -64,10 +64,8 @@ These are aids to "playing a story" in my head, for those times when I can't sit
 
 ### Space
 
-- [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain)
+- [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain) plus [an example of adding custom gameplay mechanics](https://itch.io/t/2221781/slice-of-life-space-trading-and-smuggling)
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
-- [Notorious](https://alwayscheckers.itch.io/notorious)
-- [Star Solo](https://paperdicegames.com/star-solo)
 - Cepheus Engine:
   - [Retro Sci-Fi Rules](https://www.drivethrurpg.com/en/product/456143/retro-sci-fi-rules) is just an updated Traveller. It's a simple and minimalist starting point.
   - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
@@ -75,6 +73,10 @@ These are aids to "playing a story" in my head, for those times when I can't sit
   - [Cepheus Universal](https://www.drivethrurpg.com/en/product/469431/cepheus-universal) for all the options.
   - [Solo](https://www.drivethrurpg.com/en/product/519444/solo-second-edition)
   - [An explanation of the various versions](https://www.reddit.com/r/rpg/comments/1efz4fg/comment/lfopl95/)
+<!-- Redundant or not my style:
+- [Notorious](https://alwayscheckers.itch.io/notorious)
+- [Star Solo](https://paperdicegames.com/star-solo)
+-->
 
 ### Medieval
 
@@ -132,8 +134,9 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 <!-- - https://itch.io/jam/barely-a-ttrpg-jam> -->
 
 <!--
-GMless:
-- Dialect (and others by the publisher: Xenolanguage and Sign)
+### GMless multiplayer:
+
+- Dialect; and others by the publisher: Xenolanguage and Sign
 - An Altogether Different River
 -->
 
