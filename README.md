@@ -82,7 +82,7 @@ These are aids to "playing a story" in my head, for those times when I can't sit
 
 These are a lot more crunchy (numbers-heavy) than I would normally go for, but I just can't resist their medieval literary-historical settings.
 
-- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)): [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/), [supplements](https://web.archive.org/web/20221002001537/https://rollingboxcars.com/2017/09/19/the-essential-list-of-king-arthur-pendragon-roleplaying-books/), [more supplements](https://esoteric-rp.blogspot.com/p/pendragon-resources.html)
+- [Pendragon](https://en.wikipedia.org/wiki/Pendragon_(role-playing_game)): [solo resources](https://paperdicegames.com/2024/06/17/great-pendragon-campaign-solo-resources/), [supplements](https://web.archive.org/web/20221002001537/https://rollingboxcars.com/2017/09/19/the-essential-list-of-king-arthur-pendragon-roleplaying-books/), [more supplements](https://esoteric-rp.blogspot.com/p/pendragon-resources.html), [Book of Solos](https://gspendragon.wordpress.com/2010/02/15/book-of-solos/)
 - [Paladin](https://www.chaosium.com/paladin/)
 - [Aquelarre](https://drivethrurpg.com/product/237059/Aquelarre)
 - [Chronica Feudalis](https://chronicafeudalis.com/)
