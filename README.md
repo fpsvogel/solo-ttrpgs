@@ -233,9 +233,10 @@ I currently don't use TTRPG tools on the computer, instead going with a low-tech
 
 ### Gamebooks
 
-- [Sherlock Holmes Solo Mysteries](https://archive.org/search?query=Sherlock%20Holmes%20Solo%20Mysteries)
-- [Virtual Reality Adventure](https://archive.org/search?query=Virtual+Reality+Adventure)
-- [Choose Your Own Adventure](https://www.cyoa.com/) for nostalgia's sake
+- [Sherlock Holmes Solo Mysteries](https://archive.org/search?query=Sherlock%20Holmes%20Solo%20Mysteries): the first one is [Murder at the Diogenes Club](https://archive.org/details/Sherlock_Holmes_Solo_Mysteries_1_Murder_at_the_Diogenes_Club)
+- [Virtual Reality Adventure](https://archive.org/search?query=Virtual+Reality+Adventure): especially [#5 Heart of Ice](https://archive.org/search?query=Virtual+Reality+Adventure)
+- [Fabled Lands](https://sparkfurnace.com/fabled-lands/)
+- [Legendary Kingdoms](https://archmagepress.com/collections/legendary-kingdoms)
 - [Gamebooks Guide for Beginners](https://gamebooksguide.blogspot.com/2024/04/which-gamebook-to-choose-guide-for.html)
 
 ### Board games
