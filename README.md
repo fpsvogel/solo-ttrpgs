@@ -68,6 +68,8 @@ These are aids to "playing a story" in my head, for those times when I can't sit
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
 - Cepheus Engine:
   - [Retro Sci-Fi Rules](https://www.drivethrurpg.com/en/product/456143/retro-sci-fi-rules) is just an updated Traveller. It's a simple and minimalist starting point.
+  - [Traveller Map](https://travellermap.com)
+  - [Classic Traveller](https://legacy.drivethrurpg.com/product/355200/Classic-Traveller-Facsimile-Edition) and/or [supplements](https://www.mongoosepublishing.com/collections/classic-traveller)
   - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
   - [Hostile Solo](https://www.drivethrurpg.com/en/product/406815/hostile-solo)
   - [Cepheus Universal](https://www.drivethrurpg.com/en/product/469431/cepheus-universal) for all the options.
