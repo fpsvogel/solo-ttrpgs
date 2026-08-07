@@ -103,6 +103,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [Dwarf Mine](https://paperdicegames.itch.io/dwarf-mine)
 - [Ex Novo](https://sharkbombs.itch.io/ex-novo) and [Ex Umbra](https://sharkbombs.itch.io/ex-umbra)
 - [Fantasy Civ Solo](https://paperdicegames.itch.io/fantasy-civ-solo-discovery-and-doom)
+- [Fantasy Map Maker](https://harry-metcalf.itch.io/fantasy-map-maker)
 - [Foundations](https://leyline-press.itch.io/foundations-digital-edition-bundle)
 - [Glide](https://sasquatchgames.itch.io/glide)
 - [Hawker](https://nemysisrelapse.itch.io/hawkerexpanded)
