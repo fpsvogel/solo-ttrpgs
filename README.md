@@ -175,6 +175,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Bivius](https://lostpangolin.wordpress.com/downloads/)
 - [Weird, Whimsy & Wonder](https://capacle.itch.io/weird-whimsy-wonder)
 - [The Twist Oracle](https://majresdev.itch.io/the-twist-oracle)
+- [Tiny Tables](https://monkeyslunch.itch.io/tiny-tables-oracles-for-ttrpgs)
 
 #### Tiny oracles
 
