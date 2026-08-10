@@ -31,6 +31,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
 - [Adjacent genres](#adjacent-genres)
   - [Gamebooks](#gamebooks)
   - [Board games](#board-games)
+- [Wargames (solo, co-op)](#wargames-solo-co-op)
 
 ## Community
 
@@ -246,3 +247,13 @@ I currently don't use TTRPG tools on the computer, instead going with a low-tech
 ### Board games
 
 See [my wish list of "story" games on BoardGameGeek](https://boardgamegeek.com/collection/user/fpsvogel?sort=avgweight&sortdir=asc&searchstr=%23story&rankobjecttype=subtype&rankobjectid=1&columns=title%7Clastmodified%7Cavgrating%7Ccomment%7Cavgweight&searchfield=comment&geekranks=Board%20Game%20Rank&objecttype=thing&ff=1&subtype=boardgame).
+
+## Wargames (solo, co-op)
+
+- [Mike Lambo's games](https://boardgamegeek.com/boardgamedesigner/143185/mike-lambo)
+- [Battles!](https://boardgamegeek.com/boardgame/427387/battles/files) for kids
+- [Five Parsecs From Home](https://modiphius.net/en-us/pages/five-parsecs)
+- [Soldiers of Fortune](https://ward-against-evil.itch.io/soldiers-of-fortune)
+- [5150: Star Marine](https://www.drivethrurpg.com/pt/product/498332/5150-star-marine)
+- [Haywire Modern](https://modiphius.net/en-us/pages/haywire)
+- [Country Road Z](https://modiphius.net/en-us/products/county-road-z-core-rulebook)
