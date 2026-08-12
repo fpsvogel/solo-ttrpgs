@@ -67,6 +67,8 @@ These are aids to "playing a story" in my head, for those times when I can't sit
 - [Space Aces: Voyages in Infinite Space](https://www.lulu.com/shop/stephen-hans/space-aces-voyages-in-infinite-space/hardcover/product-je99ezd.html?page=1&pageSize=4) (or [PDF](https://p0rthos47.itch.io/space-aces-voyages-in-infinite-space)) plus [supplements](https://p0rthos47.itch.io/)
 - [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain) plus [an example of adding custom gameplay mechanics](https://itch.io/t/2221781/slice-of-life-space-trading-and-smuggling)
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
+- [Star Drifter](https://www.drivethrurpg.com/pt/product/432244/star-drifter)
+- [Star Dogs: Referee's Handbook](https://www.drivethrurpg.com/pt/product/304127/star-dogs-referee-s-handbook) for extra tables
 
 ### Medieval
 
