@@ -67,22 +67,6 @@ These are aids to "playing a story" in my head, for those times when I can't sit
 - [Space Aces: Voyages in Infinite Space](https://www.lulu.com/shop/stephen-hans/space-aces-voyages-in-infinite-space/hardcover/product-je99ezd.html?page=1&pageSize=4) (or [PDF](https://p0rthos47.itch.io/space-aces-voyages-in-infinite-space)) plus [supplements](https://p0rthos47.itch.io/)
 - [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain) plus [an example of adding custom gameplay mechanics](https://itch.io/t/2221781/slice-of-life-space-trading-and-smuggling)
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
-- Traveller/Cepheus versions:
-  - [Retro Sci-Fi Rules](https://www.drivethrurpg.com/en/product/456143/retro-sci-fi-rules)
-  - [Cepheus Light](https://www.drivethrurpg.com/pt/product/257644/cepheus-light)
-  - [Hostile Solo](https://www.drivethrurpg.com/en/product/406815/hostile-solo)
-  - [Cepheus Universal](https://www.drivethrurpg.com/en/product/469431/cepheus-universal)
-  - [Classic Traveller](https://legacy.drivethrurpg.com/product/355200/Classic-Traveller-Facsimile-Edition) and/or [supplements](https://www.mongoosepublishing.com/collections/classic-traveller)
-  - Explanations of their differences: [1](https://www.reddit.com/r/traveller/comments/qklthl/differences_between_cepheus_versions/), [2](https://www.reddit.com/r/rpg/comments/1efz4fg/im_a_little_confused_about_cepheus/)
-- Traveller solo supplements:
-  - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
-  - [SOLO](https://www.drivethrurpg.com/en/product/519444/solo-second-edition)
-- Traveller tools:
-  - [Traveller Map](https://travellermap.com)
-<!-- Redundant or not my style:
-- [Notorious](https://alwayscheckers.itch.io/notorious)
-- [Star Solo](https://paperdicegames.com/star-solo)
--->
 
 ### Medieval
 
