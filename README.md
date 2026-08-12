@@ -11,7 +11,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
 - [Beginner's guides](#beginners-guides)
 - [Games](#games)
   - [Ultra-minimal](#ultra-minimal)
-  - [Kid-friendly](#kid-friendly)
+  - [For kids](#for-kids)
   - [Space](#space)
   - [Medieval](#medieval)
   - [World-building/exploration](#world-buildingexploration)
@@ -56,26 +56,29 @@ These are aids to "playing a story" in my head, for those times when I can't sit
   - [Daydreamer](https://www.reddit.com/r/Solo_Roleplaying/comments/ie36ph/daydream_universal_a_solo_diceless_paperless_fu/)
   <!-- another possibility: https://www.reddit.com/r/Solo_Roleplaying/comments/1m47qql/comment/n45d5yo -->
 
-### Kid-friendly
+### For kids
 
 - Dungeon Hero ([Vol. 1](https://lonespelunker.itch.io/dungeon-hero), [Vol. 2](https://lonespelunker.itch.io/dungeon-hero-volume-2), [Vol. 3](https://lonespelunker.itch.io/dungeon-hero-volume-3-bump-in-the-night))
 - [Tricube Tales](https://www.drivethrurpg.com/en/product/294202/tricube-tales) plus [one-pagers](https://www.drivethrurpg.com/en/browse?keyword=tricube+tales) and [news thread](https://forum.rpg.net/index.php?threads/tricube-tales-the-one-page-rpg-collection.899696)
 - [The Storymaster's Tales](https://www.storymasterstales.com)
-- [Space Aces: Voyages in Infinite Space](https://www.lulu.com/shop/stephen-hans/space-aces-voyages-in-infinite-space/hardcover/product-je99ezd.html?page=1&pageSize=4) (or [PDF](https://p0rthos47.itch.io/space-aces-voyages-in-infinite-space)) plus [supplements](https://p0rthos47.itch.io/)
 
 ### Space
 
+- [Space Aces: Voyages in Infinite Space](https://www.lulu.com/shop/stephen-hans/space-aces-voyages-in-infinite-space/hardcover/product-je99ezd.html?page=1&pageSize=4) (or [PDF](https://p0rthos47.itch.io/space-aces-voyages-in-infinite-space)) plus [supplements](https://p0rthos47.itch.io/)
 - [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain) plus [an example of adding custom gameplay mechanics](https://itch.io/t/2221781/slice-of-life-space-trading-and-smuggling)
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
-- Cepheus Engine:
-  - [Retro Sci-Fi Rules](https://www.drivethrurpg.com/en/product/456143/retro-sci-fi-rules) is just an updated Traveller. It's a simple and minimalist starting point.
-  - [Traveller Map](https://travellermap.com)
-  - [Classic Traveller](https://legacy.drivethrurpg.com/product/355200/Classic-Traveller-Facsimile-Edition) and/or [supplements](https://www.mongoosepublishing.com/collections/classic-traveller)
-  - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
+- Traveller/Cepheus versions:
+  - [Retro Sci-Fi Rules](https://www.drivethrurpg.com/en/product/456143/retro-sci-fi-rules)
+  - [Cepheus Light](https://www.drivethrurpg.com/pt/product/257644/cepheus-light)
   - [Hostile Solo](https://www.drivethrurpg.com/en/product/406815/hostile-solo)
-  - [Cepheus Universal](https://www.drivethrurpg.com/en/product/469431/cepheus-universal) for all the options.
-  - [Solo](https://www.drivethrurpg.com/en/product/519444/solo-second-edition)
-  - [An explanation of the various versions](https://www.reddit.com/r/rpg/comments/1efz4fg/comment/lfopl95/)
+  - [Cepheus Universal](https://www.drivethrurpg.com/en/product/469431/cepheus-universal)
+  - [Classic Traveller](https://legacy.drivethrurpg.com/product/355200/Classic-Traveller-Facsimile-Edition) and/or [supplements](https://www.mongoosepublishing.com/collections/classic-traveller)
+  - Explanations of their differences: [1](https://www.reddit.com/r/traveller/comments/qklthl/differences_between_cepheus_versions/), [2](https://www.reddit.com/r/rpg/comments/1efz4fg/im_a_little_confused_about_cepheus/)
+- Traveller solo supplements:
+  - [Travelling Alone](https://www.freelancetraveller.com/features/rules/alone.html)
+  - [SOLO](https://www.drivethrurpg.com/en/product/519444/solo-second-edition)
+- Traveller tools:
+  - [Traveller Map](https://travellermap.com)
 <!-- Redundant or not my style:
 - [Notorious](https://alwayscheckers.itch.io/notorious)
 - [Star Solo](https://paperdicegames.com/star-solo)
