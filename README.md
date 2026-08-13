@@ -28,10 +28,8 @@ This list is based on my own interests, so it includes some obscure stuff and om
   - [Adventure creation](#adventure-creation)
   - [Random content generation](#random-content-generation)
   - [Mapmaking](#mapmaking)
-  - [On the computer](#on-the-computer)
 - [Adjacent genres](#adjacent-genres)
   - [Gamebooks](#gamebooks)
-  - [Board games](#board-games)
 - [Wargames (solo, co-op)](#wargames-solo-co-op)
 
 ## Community
@@ -215,14 +213,6 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [watabou's map generators](https://watabou.itch.io)
 - [Wonderdraft](https://www.wonderdraft.net)
 
-### On the computer
-
-I currently don't use TTRPG tools on the computer, instead going with a low-tech setup. But here are some pointers are in case I want to try it later.
-
-- [RPG Solo](https://www.rpgsolo.com/play.php)
-- [Solo roleplaying toolkit](https://github.com/Tayruh/solo-roleplaying-toolkit) (but the website linked in the GitHub repo is currently down)
-- [Several others](https://jvhouse.xyz/solo-rpg-setup/#playing-on-pc)
-
 ## Adjacent genres
 
 ### Gamebooks
@@ -232,10 +222,6 @@ I currently don't use TTRPG tools on the computer, instead going with a low-tech
 - [Fabled Lands](https://sparkfurnace.com/fabled-lands/)
 - [Legendary Kingdoms](https://archmagepress.com/collections/legendary-kingdoms)
 - [Gamebooks Guide for Beginners](https://gamebooksguide.blogspot.com/2024/04/which-gamebook-to-choose-guide-for.html)
-
-### Board games
-
-See [my wish list of "story" games on BoardGameGeek](https://boardgamegeek.com/collection/user/fpsvogel?sort=avgweight&sortdir=asc&searchstr=%23story&rankobjecttype=subtype&rankobjectid=1&columns=title%7Clastmodified%7Cavgrating%7Ccomment%7Cavgweight&searchfield=comment&geekranks=Board%20Game%20Rank&objecttype=thing&ff=1&subtype=boardgame).
 
 ## Wargames (solo, co-op)
 
