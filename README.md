@@ -16,6 +16,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
   - [Medieval](#medieval)
   - [World-building/exploration](#world-buildingexploration)
   - [Contemplative](#contemplative)
+  - [GMless for 2+ players:](#gmless-for-2-players)
   - [Mystery](#mystery)
 - [Tools](#tools)
   - [Oracles](#oracles)
@@ -127,12 +128,10 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [Letters from the Hidden Cottage](https://foxglove-games.itch.io/letters-from-the-hidden-cottage)
 <!-- - https://itch.io/jam/barely-a-ttrpg-jam> -->
 
-<!--
-### GMless multiplayer:
+### GMless for 2+ players:
 
-- Dialect; and others by the publisher: Xenolanguage and Sign
-- An Altogether Different River
--->
+- [Wanderhome](https://possumcreekgames.com/pages/wanderhome)
+- [Galactic 2e](https://metagame.itch.io/galactic) plus [Save the Galaxy](https://randylubin.itch.io/save-the-galaxy) plot guide
 
 ### Mystery
 
