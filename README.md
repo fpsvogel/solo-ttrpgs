@@ -16,8 +16,6 @@ This list is based on my own interests, so it includes some obscure stuff and om
   - [Medieval](#medieval)
   - [World-building/exploration](#world-buildingexploration)
   - [Contemplative](#contemplative)
-  - [GMless for 2+ players:](#gmless-for-2-players)
-  - [Mystery](#mystery)
 - [Tools](#tools)
   - [Oracles](#oracles)
     - [Large oracles](#large-oracles)
@@ -68,6 +66,7 @@ These are aids to "playing a story" in my head, for those times when I can't sit
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
 - [Star Drifter](https://www.drivethrurpg.com/pt/product/432244/star-drifter)
 - [Star Dogs: Referee's Handbook](https://www.drivethrurpg.com/pt/product/304127/star-dogs-referee-s-handbook) for extra tables
+- (2+ players) [Galactic 2e](https://metagame.itch.io/galactic) plus supplements: [Save the Galaxy](https://randylubin.itch.io/save-the-galaxy), [Going Rogue](https://jumpgategames.itch.io/going-rogue), [Scum and Villains](https://jumpgategames.itch.io/the-scum-and-villains-expansion), and lots more ([1](https://itch.io/search?q=galactic+2e), [2](https://itch.io/search?q=galactic+playbook))
 
 ### Medieval
 
@@ -125,15 +124,6 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [In the Quiet Hours](https://zeruhur.itch.io/in-the-quiet-hours)
 - [Letters from the Hidden Cottage](https://foxglove-games.itch.io/letters-from-the-hidden-cottage)
 <!-- - https://itch.io/jam/barely-a-ttrpg-jam> -->
-
-### GMless for 2+ players:
-
-- [Wanderhome](https://possumcreekgames.com/pages/wanderhome)
-- [Galactic 2e](https://metagame.itch.io/galactic) plus [Save the Galaxy](https://randylubin.itch.io/save-the-galaxy) plot guide
-
-### Mystery
-
-- [That One Time We Solved a Mystery](https://www.drivethrurpg.com/en/product/556082/that-one-time-we-solved-a-mystery)
 
 ## Tools
 
@@ -194,6 +184,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Eureka: 501 Adventure Plots to Inspire Game Masters](https://www.drivethrurpg.com/pt/product/82670/eureka-501-adventure-plots-to-inspire-game-masters)
 - [Big List of RPG Plots](https://www.drivethrurpg.com/pt/product/202670/big-list-of-rpg-plots) ([abbreviated version](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots))
 - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
+- [That One Time We Solved a Mystery](https://www.drivethrurpg.com/en/product/556082/that-one-time-we-solved-a-mystery)
 
 ### Random content generation
 
