@@ -24,7 +24,6 @@ This list is based on my own interests, so it includes some obscure stuff and om
   - [DIY form-a-word oracles](#diy-form-a-word-oracles)
   - [Player emulators](#player-emulators)
   - [Adventure creation](#adventure-creation)
-  - [Random content generation](#random-content-generation)
   - [Mapmaking](#mapmaking)
 - [Adjacent genres](#adjacent-genres)
   - [Gamebooks](#gamebooks)
@@ -181,15 +180,6 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Big List of RPG Plots](https://www.drivethrurpg.com/pt/product/202670/big-list-of-rpg-plots) ([abbreviated version](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots))
 - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
 - [That One Time We Solved a Mystery](https://www.drivethrurpg.com/en/product/556082/that-one-time-we-solved-a-mystery)
-
-### Random content generation
-
-- Many [lists of tools](https://www.reddit.com/r/rpg_generators/comments/142jvzk/30_days_of_rpg_generator_sites_full_list)
-- [Chaos Gen](https://www.chaosgen.com/gen-tags/fantasy) (fantasy RPG generators)
-- [Guide to Free and PWYW Random Table PDFs for Fantasy](https://www.randroll.com/guide-free-pdfs-fantasy) (and [its counterpart for sci-fi and other non-fantasy](https://www.randroll.com/guide-free-pdfs-futuristic/))
-- [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith) has generators from various TTRPGs
-- Plot generators: [1](https://www.herebetaverns.com/plot-hook-generator), [2](https://www.plot-generator.org.uk), [3](https://blog.reedsy.com/plot-generator/), [4](https://writingexercises.co.uk/plotgenerator.php), [5](https://donjon.bin.sh/fantasy/adventure/), [6](https://www.seventhsanctum.com/generate.php?Genname=storygen)
-- [Big List of RPG Plots](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots)
 
 ### Mapmaking
 
