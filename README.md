@@ -45,13 +45,13 @@ This list is based on my own interests, so it includes some obscure stuff and om
 
 These are aids to "playing a story" in my head, for those times when I can't sit down to play a game.
 
-- Random numbers: [d10 in your head (EJOTY)](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/), [d6 in your head (RHINOS)](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/), online [Keeper's Dice Roller](https://keeper.farirpgs.com/dice)
+- Random numbers: [d10 in your head (EJOTY)](https://www.reddit.com/r/askmath/comments/18miau9/comment/ke4i7im/), [d6 in your head (RHINOS)](https://www.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/), online [Keeper's Dice Roller](https://keeper.farirpgs.com/dice) <!-- d10 archived comment starting with "Think of a random word": https://web.archive.org/web/20260814205355/https://old.reddit.com/r/askmath/comments/18miau9/what_is_a_good_way_pick_a_fairly_random_number/ --> <!-- d6 archived: https://web.archive.org/web/20260814205503/https://old.reddit.com/r/Solo_Roleplaying/comments/qweave/rhinos_a_diceless_selfcontained_pseudorandom/ -->
 - Random words: [A.Word.A.Day archives](https://wordsmith.org/awad/archives.html), [Random Word](https://randomword.com/), [Weird Words](https://randomwordgenerator.com/weird-word.php)
 - More "play in your head" ideas:
   - [Diedream](https://alfredvalley.itch.io/diedream)
   - [Hands-Free RPG](https://scriptorum.itch.io/hands-free-rpg)
   - [Daydreamer](https://www.reddit.com/r/Solo_Roleplaying/comments/ie36ph/daydream_universal_a_solo_diceless_paperless_fu/)
-  <!-- another possibility: https://www.reddit.com/r/Solo_Roleplaying/comments/1m47qql/comment/n45d5yo -->
+  - [Exhaustible words + oracle answers](https://www.reddit.com/r/Solo_Roleplaying/comments/1m47qql/comment/n45d5yo) <!-- Archived comment starting with "Sorry for the long comment": https://web.archive.org/web/20260814205536/https://old.reddit.com/r/Solo_Roleplaying/comments/1m47qql/does_anybody_play_without_any_dicerules_at_all_or/ -->
 
 ### For kids
 
@@ -111,7 +111,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [The Royal Cartographer](https://albi13.itch.io/the-royal-cartographer)
 - [The Wandering Library](https://ap-cartography.itch.io/the-wandering-library-expanded-edition)
 - [The Wayfarer](https://lumenwrites.itch.io/the-wayfarer)
-- [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building).
+- [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building). <!-- Archived: https://web.archive.org/web/20260814205236/https://old.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building/ -->
 <!-- Too much detail / too specific:
   - Tome of Worldbuilding, Tome of Adventure Design: https://www.drivethrurpg.com/en/publisher/2725/mythmere-games
   - Wondrous Worlds, Dangerous Destinations, Spectacular Settlements: https://nordgamesllc.com/collections/worldbuilding
@@ -164,7 +164,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 ### DIY form-a-word oracles
 
-- [Q-Less](https://qlessgame.com) or other [letter dice](https://www.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle)
+- [Q-Less](https://qlessgame.com) or other [letter dice](https://www.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle) <!-- Archived: https://web.archive.org/web/20260814210023/https://old.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle/ -->
 - [Bananagrams](https://bananagrams.com/products/bananagrams) or a bag of Scrabble tiles
 
 ### Player emulators
