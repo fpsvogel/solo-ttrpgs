@@ -123,7 +123,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [A Train Ride Home](https://heyitshelen.itch.io/a-train-ride-home)
 - [In the Quiet Hours](https://zeruhur.itch.io/in-the-quiet-hours)
 - [Letters from the Hidden Cottage](https://foxglove-games.itch.io/letters-from-the-hidden-cottage)
-<!-- - https://itch.io/jam/barely-a-ttrpg-jam> -->
+- ["Barely a TTRPG" Jam](https://itch.io/jam/barely-a-ttrpg-jam) could be a good place to find more
 
 ## Tools
 
