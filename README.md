@@ -22,8 +22,9 @@ This list is based on my own interests, so it includes some obscure stuff and om
     - [Simpler oracles](#simpler-oracles)
     - [Tiny oracles](#tiny-oracles)
   - [DIY form-a-word oracles](#diy-form-a-word-oracles)
-  - [Player emulators](#player-emulators)
+  - [Card-based oracles](#card-based-oracles)
   - [Adventure creation](#adventure-creation)
+  - [Player emulators](#player-emulators)
   - [Mapmaking](#mapmaking)
 - [Adjacent genres](#adjacent-genres)
   - [Gamebooks](#gamebooks)
@@ -140,7 +141,6 @@ These are what help resolve questions and/or move the story along in solo play, 
 
 #### Simpler oracles
 
-- The GameMaster's Apprentice (GMA) cards: [online]((https://jamesturneronline.net/game-masters-apprentice)) or [physical cards](https://www.drivethrurpg.com/product/125685/The-GameMasters-Apprentice-Base-Deck), plus [GMA Adventure Guide Pack](https://www.drivethrurpg.com/product/179835). [ALONe](https://www.drivethrurpg.com/product/168609) is a solo RPG system based on the cards.
 - [One Page Solo Engine](https://inflatablestudios.itch.io/one-page-solo-engine) (includes links to a mobile app)
 - [MUNE](https://forums.giantitp.com/showthread.php?567342-MUNE-a-GM-emulator) and [the mobile app](https://play.google.com/store/apps/details?id=com.toppinc.dnd.muneengine)
 - [Juice Oracle](https://thunder9861.itch.io/juice-oracle)
@@ -162,24 +162,32 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [Q-Less](https://qlessgame.com) or other [letter dice](https://www.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle) <!-- Archived: https://web.archive.org/web/20260814210023/https://old.reddit.com/r/Solo_Roleplaying/comments/1kf0w2o/using_letter_dice_as_an_oracle/ -->
 - [Bananagrams](https://bananagrams.com/products/bananagrams) or a bag of Scrabble tiles
 
-### Player emulators
+### Card-based oracles
 
-- [Pettish](https://katamoiran.itch.io/pettish)
-- [Mythic Magazine #41: Mythic as a Player Emulator](https://www.drivethrurpg.com/en/product/479600/mythic-magazine-volume-41)
-- [Triple-O](https://capacle.itch.io/triple-o)
-- [Katamoiran Player Emulator](https://exposit.github.io/katarpgs/pdf/PlayerEmulator.pdf)
+Most of these aren't *intended* to be used as oracles, but work well for it.
 
-### Adventure creation
-
+- The GameMaster's Apprentice (GMA): [online]((https://jamesturneronline.net/game-masters-apprentice)) or [physical cards](https://www.drivethrurpg.com/product/125685/The-GameMasters-Apprentice-Base-Deck), plus [GMA Adventure Guide Pack](https://www.drivethrurpg.com/product/179835). [ALONe](https://www.drivethrurpg.com/product/168609) is a solo RPG system based on the cards.
 - [Story Engine Deck](https://storyenginedeck.com) plus [fan prompts](https://honest-charlie-harris.itch.io/story-engine-deck-of-worlds-fan-prompts)
 - [Deck of Endless Adventure Ideas](https://lumenwrites.itch.io/endless-adventure-ideas)
 - [TaleWeaver cards](https://www.scribd.com/document/98415/TaleWeaver-Card-Deck) and [instructions](https://www.scribd.com/document/98412/Tale-Weaver)
+- [Dixit cards](https://www.libellud.com/en/our-games/dixit/)
+- [Codenames: Pictures cards](https://store.czechgames.com/products/codenames-pictures-new)
+
+### Adventure creation
+
 - [The Adventure Crafter](https://www.drivethrurpg.com/en/product/261479/the-adventure-crafter) (or [one-page](https://www.drivethrurpg.com/en/product/436964/mythic-magazine-volume-29), [deck](https://www.drivethrurpg.com/en/product/303881/the-adventure-crafter-deck))
 - [The Covetous Poet's Adventure Creator and Solo GM Guidebook](https://www.drivethrurpg.com/en/product/129909/the-covetous-poet-s-adventure-creator-and-solo-gm-guidebook)
 - [Eureka: 501 Adventure Plots to Inspire Game Masters](https://www.drivethrurpg.com/pt/product/82670/eureka-501-adventure-plots-to-inspire-game-masters)
 - [Big List of RPG Plots](https://www.drivethrurpg.com/pt/product/202670/big-list-of-rpg-plots) ([abbreviated version](https://tvtropes.org/pmwiki/pmwiki.php/Literature/BigListOfRPGPlots))
 - [Questions Without Answers](https://www.drivethrurpg.com/en/product/184659/questions-without-answers)
 - [That One Time We Solved a Mystery](https://www.drivethrurpg.com/en/product/556082/that-one-time-we-solved-a-mystery)
+
+### Player emulators
+
+- [Pettish](https://katamoiran.itch.io/pettish)
+- [Mythic Magazine #41: Mythic as a Player Emulator](https://www.drivethrurpg.com/en/product/479600/mythic-magazine-volume-41)
+- [Triple-O](https://capacle.itch.io/triple-o)
+- [Katamoiran Player Emulator](https://exposit.github.io/katarpgs/pdf/PlayerEmulator.pdf)
 
 ### Mapmaking
 
