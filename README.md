@@ -65,7 +65,7 @@ These are aids to "playing a story" in my head, for those times when I can't sit
 - [Welcome Aboard, Captain](https://lonespelunker.itch.io/welcome-aboard-captain) plus [an example of adding custom gameplay mechanics](https://itch.io/t/2221781/slice-of-life-space-trading-and-smuggling)
 - [For Small Creatures Such As We](https://www.blackwellwriter.com/en-us/products/for-small-creatures-such-as-we)
 - [Star Drifter](https://www.drivethrurpg.com/pt/product/432244/star-drifter)
-- [Star Dogs: Referee's Handbook](https://www.drivethrurpg.com/pt/product/304127/star-dogs-referee-s-handbook) for extra tables
+- [Star Dogs: Referee's Handbook](https://www.drivethrurpg.com/pt/product/304127/star-dogs-referee-s-handbook) and [DART](https://darkdvr.itch.io/dart) for extra tables
 - (2+ players) [Galactic 2e](https://metagame.itch.io/galactic) plus supplements: [Save the Galaxy](https://randylubin.itch.io/save-the-galaxy), [Going Rogue](https://jumpgategames.itch.io/going-rogue), [Scum and Villains](https://jumpgategames.itch.io/the-scum-and-villains-expansion), and lots more ([1](https://itch.io/search?q=galactic+2e), [2](https://itch.io/search?q=galactic+playbook))
 
 ### Medieval
@@ -112,6 +112,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [The Wandering Library](https://ap-cartography.itch.io/the-wandering-library-expanded-edition)
 - [The Wayfarer](https://lumenwrites.itch.io/the-wayfarer)
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) and [Stars Without Number](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) have [a world-building component](https://www.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building). <!-- Archived: https://web.archive.org/web/20260814205236/https://old.reddit.com/r/WWN/comments/1buvc5q/workflow_for_without_number_world_building/ -->
+- [Worldwizard](https://lampblack-brimstone.itch.io/worldwizard)
 
 ### Contemplative
 
