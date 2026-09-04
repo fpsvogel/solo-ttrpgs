@@ -148,6 +148,7 @@ These are what help resolve questions and/or move the story along in solo play, 
 - [These Meagre Entrails](https://mendercap.itch.io/these-meagre-entrails)
 - [Bivius](https://lostpangolin.wordpress.com/downloads/)
 - [Weird, Whimsy & Wonder](https://capacle.itch.io/weird-whimsy-wonder)
+- [The Storyteller's Automaton](https://ohhigames.itch.io/the-storytellers-automaton)
 - [The Twist Oracle](https://majresdev.itch.io/the-twist-oracle)
 - [Tiny Tables](https://monkeyslunch.itch.io/tiny-tables-oracles-for-ttrpgs)
 
