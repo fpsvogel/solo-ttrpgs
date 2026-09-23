@@ -67,6 +67,7 @@ These are aids to "playing a story" in my head, for those times when I can't sit
 - [Star Drifter](https://www.drivethrurpg.com/pt/product/432244/star-drifter)
 - [Star Dogs: Referee's Handbook](https://www.drivethrurpg.com/pt/product/304127/star-dogs-referee-s-handbook) and [DART](https://darkdvr.itch.io/dart) for extra tables
 - (2+ players) [Galactic 2e](https://metagame.itch.io/galactic) plus supplements: [Save the Galaxy](https://randylubin.itch.io/save-the-galaxy), [Going Rogue](https://jumpgategames.itch.io/going-rogue), [Scum and Villains](https://jumpgategames.itch.io/the-scum-and-villains-expansion), and lots more ([1](https://itch.io/search?q=galactic+2e), [2](https://itch.io/search?q=galactic+playbook))
+- [Story Spark](https://www.drivethrurpg.com/en/product/575760/story-spark-narrative)
 
 ### Medieval
 
