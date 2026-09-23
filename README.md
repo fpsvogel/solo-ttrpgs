@@ -106,7 +106,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
   - [Utgar's Chronicles](https://utgars-chronicles.app/) is not for solo play, but is useful to mention here because it's for online multiplayer.
 - [Pencilvillage](https://pencilvillage.org/)
 - [People, Places & Perils](https://capacle.itch.io/people-places-perils)
-- [Stonetop](https://stonetop-wiki.github.io/) (free web edition): a group game, not a solo one, but its expedition, steading and danger procedures (from the publisher of The Perilous Wilds and Worldwizard) are good raw material for solo village-building
+- [Stonetop](https://stonetop-wiki.github.io/) plus [a solo playthrough](https://ptfo.substack.com/p/table-of-contents) and unofficial supplements ([1](https://www.drivethrurpg.com/en/publisher/28106/wilona-s-cave-games?keyword=stonetop), [2](https://itch.io/search?type=games&q=%22stonetop%22))
 - [The Land Beyond](https://capacle.itch.io/the-land-beyond)
 - [The Perilous Wilds](https://lampblack-brimstone.itch.io/the-perilous-wilds-revised-edition) and [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
 - [The Royal Cartographer](https://albi13.itch.io/the-royal-cartographer)
