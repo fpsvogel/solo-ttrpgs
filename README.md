@@ -219,4 +219,4 @@ Most of these aren't *intended* to be used as oracles, but work well for it.
 - [Soldiers of Fortune](https://ward-against-evil.itch.io/soldiers-of-fortune)
 - [5150: Star Marine](https://www.drivethrurpg.com/pt/product/498332/5150-star-marine)
 - [Haywire Modern](https://modiphius.net/en-us/pages/haywire)
-- [Country Road Z](https://modiphius.net/en-us/products/county-road-z-core-rulebook)
+- [County Road Z](https://modiphius.net/en-us/products/county-road-z-core-rulebook)
