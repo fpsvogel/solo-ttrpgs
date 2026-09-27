@@ -108,6 +108,7 @@ These are a lot more crunchy (numbers-heavy) than I would normally go for, but I
 - [Pencilvillage](https://pencilvillage.org/)
 - [People, Places & Perils](https://capacle.itch.io/people-places-perils)
 - [Stonetop](https://stonetop-wiki.github.io/) plus [a solo playthrough](https://ptfo.substack.com/p/table-of-contents) and unofficial supplements ([1](https://www.drivethrurpg.com/en/publisher/28106/wilona-s-cave-games?keyword=stonetop), [2](https://itch.io/search?type=games&q=%22stonetop%22))
+- [The Book of Unnumbered Worlds](https://www.kickstarter.com/projects/sinenomineinc/the-book-of-unnumbered-worlds)
 - [The Land Beyond](https://capacle.itch.io/the-land-beyond)
 - [The Perilous Wilds](https://lampblack-brimstone.itch.io/the-perilous-wilds-revised-edition) and [The Perilous Void](https://lampblack-brimstone.itch.io/the-perilous-void)
 - [The Royal Cartographer](https://albi13.itch.io/the-royal-cartographer)
