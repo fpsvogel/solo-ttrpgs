@@ -211,6 +211,7 @@ Most of these aren't *intended* to be used as oracles, but work well for it.
 - [Fabled Lands](https://sparkfurnace.com/fabled-lands/)
 - [Legendary Kingdoms](https://archmagepress.com/collections/legendary-kingdoms)
 - [Gamebooks Guide for Beginners](https://gamebooksguide.blogspot.com/2024/04/which-gamebook-to-choose-guide-for.html)
+- [Bert's Gamebook Creator](https://bertgames.com/games/gamebook-creator/)
 
 ## Wargames (solo, co-op)
 
