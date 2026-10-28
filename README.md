@@ -26,6 +26,7 @@ This list is based on my own interests, so it includes some obscure stuff and om
   - [Adventure creation](#adventure-creation)
   - [Player emulators](#player-emulators)
   - [Mapmaking](#mapmaking)
+  - [Design](#design)
 - [Adjacent genres](#adjacent-genres)
   - [Gamebooks](#gamebooks)
 - [Wargames (solo, co-op)](#wargames-solo-co-op)
@@ -190,10 +191,9 @@ Most of these aren't *intended* to be used as oracles, but work well for it.
 
 ### Player emulators
 
-- [Pettish](https://katamoiran.itch.io/pettish)
+- [Pettish](https://katamoiran.itch.io/pettish), a revision of [PET](https://exposit.github.io/katarpgs/pdf/PlayerEmulator.pdf)
 - [Mythic Magazine #41: Mythic as a Player Emulator](https://www.drivethrurpg.com/en/product/479600/mythic-magazine-volume-41)
 - [Triple-O](https://capacle.itch.io/triple-o)
-- [Katamoiran Player Emulator](https://exposit.github.io/katarpgs/pdf/PlayerEmulator.pdf)
 
 ### Mapmaking
 
@@ -203,6 +203,10 @@ Most of these aren't *intended* to be used as oracles, but work well for it.
 - [Nortantis Fantasy Map Generator](https://jeheydorn.github.io/nortantis)
 - [watabou's map generators](https://watabou.itch.io)
 - [Wonderdraft](https://www.wonderdraft.net)
+
+### Design
+
+- [Levi Kornelsen](https://levikornelsen.itch.io/)
 
 ## Adjacent genres
 
